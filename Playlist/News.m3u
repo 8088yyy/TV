@@ -2,83 +2,83 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/CNN_NEWS_18.png" , CNN News18
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/CNN_NEWS_18.png" group-title="News", CNN News18
 https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_MP.png" , News18 Madhya Pradesh Chhattisgarh
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_MP.png" group-title="News", News18 Madhya Pradesh Chhattisgarh
 https://nw18live.cdn.jio.com/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/IBN_Lokmat.png" , News18 Lokmat
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/IBN_Lokmat.png" group-title="News", News18 Lokmat
 https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/IBN_7.png" , News18 India
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/IBN_7.png" group-title="News", News18 India
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_Haryana_and_HP_News.png" , News18 Punjab Haryana Himachal
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_Haryana_and_HP_News.png" group-title="News", News18 Punjab Haryana Himachal
 https://nw18live.cdn.jio.com/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_RAJASTHAN.png" , News18 Rajasthan
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_RAJASTHAN.png" group-title="News", News18 Rajasthan
 https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_UP.png" , News18 Uttar Pradesh Uttarakhand
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_UP.png" group-title="News", News18 Uttar Pradesh Uttarakhand
 https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_BIHAR.png" , News18 Bihar Jharkhand
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_BIHAR.png" group-title="News", News18 Bihar Jharkhand
 https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_Bangla_News.png" , News18 Bangla
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_Bangla_News.png" group-title="News", News18 Bangla
 https://nw18live.cdn.jio.com/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_News_Oriya.png" , News18 Odia
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_News_Oriya.png" group-title="News", News18 Odia
 https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_News_Gujarati.png" , News18 Gujarati
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_News_Gujarati.png" group-title="News", News18 Gujarati
 https://nw18live.cdn.jio.com/bpk-tv/News18_Gujarati_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_Urdu.png" , News18 Urdu
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_Urdu.png" group-title="News", News18 Urdu
 https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/News_18_Assam.png" , News18 Assam Northeast
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/News_18_Assam.png" group-title="News", News18 Assam Northeast
 https://nw18live.cdn.jio.com/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_Kannada_News.png" , News18 Kannada
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_Kannada_News.png" group-title="News", News18 Kannada
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/News_18_Tamilnadu.png" , News18 Tamil Nadu
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/News_18_Tamilnadu.png" group-title="News", News18 Tamil Nadu
 https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/News_18_Kerala.png" , News18 Kerala
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/News_18_Kerala.png" group-title="News", News18 Kerala
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/CNBC_Tv_18.png" , CNBC TV18
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/CNBC_Tv_18.png" group-title="News", CNBC TV18
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/CNBC_Awaaz.png" , CNBC Awaaz
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/CNBC_Awaaz.png" group-title="News", CNBC Awaaz
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/CNBC_Bazaar_MNO.png" , CNBC Bajar
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/CNBC_Bazaar_MNO.png" group-title="News", CNBC Bajar
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uEg0EEuKqJHhrkjmSn4VaXrpAe_WO47laeBqZ45HrlYwKN-wm3-Cijq_taNvnH-MlEXylFBpCg=s900", Zee Tamil News
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uEg0EEuKqJHhrkjmSn4VaXrpAe_WO47laeBqZ45HrlYwKN-wm3-Cijq_taNvnH-MlEXylFBpCg=s900" group-title="News", Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png", Zee News
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News", Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png", Zee 24 Kalak
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" group-title="News", Zee 24 Kalak
 https://d2i4me5ac6ausm.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kalinga.png", Zee Delhi NCR Haryana
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kalinga.png" group-title="News", Zee Delhi NCR Haryana
 https://d2s40ae9uabrl.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png", Zee 24 Taas
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="News", Zee 24 Taas
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_SANGAM.png", Zee Bharat
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="News", Zee Bharat
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png", 24 Ghanta TV
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="News", 24 Ghanta TV
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png", Zee News MP Chattisgarh
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" group-title="News", Zee News MP Chattisgarh
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png", Zee Salaam
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="News", Zee Salaam
 https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png", Zee Punjabi HP Haryana
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="News", Zee Punjabi HP Haryana
 https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png", Zee News MP Chattisgarh
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" group-title="News", Zee News MP Chattisgarh
 https://d1ek9hdbw9xxcw.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Purvaiya.png", Zee Bihar Jharkhand
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="News", Zee Bihar Jharkhand
 https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Rajasthan.png", Zee Rajasthan
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="News", Zee Rajasthan
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png", Zee Business
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="News", Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Wion.png" group-title="News",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png", Aaj Tak
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News", Aaj Tak
 https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png", Aaj Tak HD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News", Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tez.png", Good News Today
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tez.png" group-title="News", Good News Today
 https://feeds.intoday.in/gnt/api/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png", India Today
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png" group-title="News", India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Times_NOW.png"  group-title="News", Times Now
@@ -142,8 +142,6 @@ https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_asmita/master.m3
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ABP_Majha.png" group-title="News",ABP Majha
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_majha/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ABP_Sanjha.png" group-title="News",ABP Sanjha
-https://www.youtube.com/channel/UCYGZ0qW3w_dWExE3QzMkwZA
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Asianet_News.png" group-title="News",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
