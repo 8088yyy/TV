@@ -194,3 +194,6 @@ https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/M_Nadu.png" group-title="News", M Nadu tv
 https://player.mslivestream.net/mslive/48be4c2542b56ac026c0e25dfe5b2f25.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJTajGtP3tTQfqBt03HoTdkJNI2toIaypzw&s" group-title="News", Samugam TV
+https://ca.streamjo.com/live/samugam.m3u8
