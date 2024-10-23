@@ -8,8 +8,6 @@ https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_inde
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Kids", Discovery Kids
 https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/Discovery/Discovery%20Kids.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/681.png" group-title="Kids", Cartoon Network HD+
 http://tv.cloudcdn.me:80/live.ts?channelId=89828&uid=1384&deviceMac=00:1A:79:00:86:A7
 
@@ -28,17 +26,19 @@ https://drmlive.in/jiocinema/544.m3u8
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/127.png" group-title="Kids", Sonic Nickelodeon
 https://drmlive.in/jiocinema/815.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=DevilBhai/5.0
+#KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/jio/jio-dash/ch-ori12.key?id=542
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/239.png" group-title="Kids", Pogo
-http://ptuf.ridsys.in/riptv/live/stream207/index.m3u8
+https://play.tsdevil.fun/jio/jio-dash/ch-ori12.mpd?id=542
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=DevilBhai/5.0
+#KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/jio/jio-dash/ch-ori12.key?id=873
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/45.png" group-title="Kids", Sony YAY!
-http://crystalott.net/BE2ZKMLVXR/I6WSJJXXZ1/2698
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids", Disney Channel HD
+https://play.tsdevil.fun/jio/jio-dash/ch-ori12.mpd?id=873
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/114.png" group-title="Kids",, Disney
 https://tamilultra.tv/api/disney.php
@@ -49,12 +49,12 @@ http://opplextv.cyou:8080/258036/258036/153175
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11479-j9jr9a8o-v1/imageContent-11479-j9jr9a8o-m1.png" group-title="Kids", Hungama
 https://tamilultra.tv/master.m3u8?c=HUNGAMA_TAMIL&server=3|referer=https://tamilultra.tv/
 
+#EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/tplay-api/catchup-key.php?id=587
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" group-title="Kids", Super Hungama
-http://b1g.ooo:80/Kam/Kam/663361
-
-
+https://tsdevil.fun/tplay-api/catchup-mpd.php?id=587
 
 #EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240707_1001225329215954789331277.png" group-title="Kids" , Animax
 https://jmp2.uk/sam-INBD13000043W.m3u8
-
-
