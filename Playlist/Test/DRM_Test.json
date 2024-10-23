@@ -1,0 +1,1781 @@
+  "USANETWORK": {
+                url: "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd",
+                k1: "252a671825ba31ec8433f978c32ccf6d",
+                k2: "ee560759ecc8d2274df2e63fcef56915"
+            },
+            "UNIVERSO": {
+                url: "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd",
+                k1: "232d71bb013d39ffb92ee8c576fb7e8e",
+                k2: "087408a48be8d57046c3868b37ea90ba"
+            },
+            "AMAZON_CRICKET_ENG": {
+                url: "https://aba5sdmaaaaaaaamd2pqhgokntneg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mfvez6cbji/out/v1/108bfdad52584b3dac8da45d0b679e7d/cenc.mpd",
+                k1: "29d389f476fe821be2fa93f48377cf66",
+                k2: "a9edff53a726d123acfed56e68d0299e"
+            },
+            "AMAZON_CRICKET_HINDI": {
+                url: "https://a120aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/cikydktuif/out/v1/c0373ca1f8a441c29bb4dbb193c4a39c/cenc.mpd",
+                k1: "913680cbb31c57ae4004ec030b5ec223",
+                k2: "5ea27cc20c4fa3474e67c1a8083e45c9"
+            },
+            "FANCODE": {
+                url: "https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd",
+                k1: "159a2b4e1d2d7f16892d35d935a2fb34",
+                k2: "07809840dd0f511221ca78459167d1b3"
+            },
+            "PEACOK_OLIMPIC": {
+                url: "https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc101if3w3)/master_2min.mpd",
+                k1: "0020c8f2c972400f9bb815a63d5981c8",
+                k2: "22a841f67bba4ee9a9c0496782b9f670"
+            },
+            "BBC_THREE": {
+                url: "https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09093/manifest.mpd",
+                k1: "4a50525c66084589983d260a52808f59",
+                k2: "04ebf492aec2c867560092a956bf51b6"
+            },
+            "BBC_FOUR": {
+                url: "https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09095/manifest.mpd",
+                k1: "d96572a0a9dd440b88c27268dc133399",
+                k2: "4c1facad62ea4d7dd3ac59047520aa78"
+            },
+            "NFL": {
+                url: "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd",
+                k1: "002007110c69a23803173b50eab05f23",
+                k2: "590d6e8f4ca81319f9bb29104f571990"
+            },
+            "NBC_SPORTS": {
+                url: "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd",
+                k1: "0020d88a6713159839743f655c5da7de",
+                k2: "ba9f34226301f69a4f0f13f65a1f92ec"
+            },
+            "PREMIER_LEAGUE_TV": {
+                url: "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd",
+                k1: "002046c9a49b9ab1cdb6616bec5d26c3",
+                k2: "d2f92f6b7edc9a1a05d393ba0c20ef9e"
+            },
+            "WWE": {
+                url: "https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd",
+                k1: "00208c93f4358213b52220898b962385",
+                k2: "8ae6063167228e350dd132d4a1573102"
+            },
+             "WWE_NETWORK": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd",
+                k1: "0cbc4d3b4fbd9af512acb2488bb42910",
+                k2: "30528c4ef882954e5707cd1001d66121"
+            },
+             "SPOTV": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd",
+                k1: "c0e1804aa1d9fd9c41c41bf0f61a5f10",
+                k2: "758823e4eabb6e4c8c036d073db46b8c"
+            },
+             "SPOTV_2": {
+                url: "https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001",
+                k1: "7de0fa3c35f52f8a8517f1600dd11ed7",
+                k2: "2d59cf94d10020aeee01a97cd0716eea"
+            },
+            "SPOTV_3": {
+                url: "https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd",
+                k1: "e60ece8f0d9042fcb52508055ec48e5e",
+                k2: "213f438bd4961cda987d41b7f154f1e5"
+            },
+            "SPOTV2": {
+                url: "https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd",
+                k1: "e6ed3fdf6e9f491d9ead109fc0b00cfc",
+                k2: "3bc6c45722eb5fa7b343de9bffc4f7c7"
+            },
+            "SPOTV2_2": {
+                url: "https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001",
+                k1: "7c67cb7de9465062c06ac94e8e065462",
+                k2: "5931fc07f285ffe40eb98e130bb090f9"
+            },
+            "SSC1": {
+                url: "https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd",
+                k1: "d84c325f36814f39bbe59080272b10c3",
+                k2: "550727de4c96ef1ecff874905493580f"
+            },
+            "SSC2": {
+                url: "https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd",
+                k1: "8bcfc55359e24bd7ad1c5560a96ddd3c",
+                k2: "b5dcf721ab522af92a9d3bf0bd55b596"
+            },
+            "SSC3": {
+                url: "https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd",
+                k1: "7de5dd08ad8041d586c2f16ccc9490a1",
+                k2: "5e1503f3398b34f5099933fedab847ef"
+            },
+            "SSC4": {
+                url: "https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd",
+                k1: "5c672f6b85a94638872d0214f7806ed4",
+                k2: "bf8756fbb866ee2d5c701c2289dd8de3"
+            },
+            "SSC5": {
+                url: "https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd",
+                k1: "c88b512b17ab4f6cb09eb0ff4a1056ed",
+                k2: "adc08ee1c20a734972a55c9aebbd1888"
+            },
+            "SSC_EXTRA1": {
+                url: "https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd",
+                k1: "ecbc9e6fe6b145efb6658fb5cf7427f8",
+                k2: "03c17e28911f71221acbc0b11f900401"
+            },
+            "SSC_EXTRA2": {
+                url: "https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd",
+                k1: "4d89249bd4ca4ebc9e70443265f9507d",
+                k2: "cf074ffd2646c9c2f8513b47fa57bc30"
+            },
+            "SSC_EXTRA3": {
+                url: "https://ssc-extra-3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd",
+                k1: "98cfd6fd4812497fb24dc75f7545f2ee",
+                k2: "d3006ee69e77b25939728ebf30d3180a"
+            },
+            "SSC_NEWS": {
+                url: "https://ssc-news-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd",
+                k1: "3d04975236a44f62857d181597705ee6",
+                k2: "362133e9cb13189ad4fe095ced216f60"
+            },
+            "ESPN_NL": {
+                url: "https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp1-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000107_019441.mpd",
+                k1: "3e999e38253834baa63881ea451f2839",
+                k2: "99b88d9cde1d8986decbc5985da87187"
+            },
+            "ESPN_NL_2": {
+                url: "https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp2-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000108_019561.mpd",
+                k1: "3e999e38253834baa63881ea451f2839",
+                k2: "99b88d9cde1d8986decbc5985da87187"
+            },
+            "ESPN_NL_3": {
+                url: "https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp3-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000109_019464.mpd",
+                k1: "3e999e38253834baa63881ea451f2839",
+                k2: "99b88d9cde1d8986decbc5985da87187"
+            },
+            "ESPN_NL_4": {
+                url: "https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000110_019562.mpd",
+                k1: "3e999e38253834baa63881ea451f2839",
+                k2: "99b88d9cde1d8986decbc5985da87187"
+            },
+            "TSN1_CA": {
+                url: "https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd",
+                k1: "dea83ced0141424e983e1afe463b4b0d",
+                k2: "c00dd5dd17b0799aa4013f365a1393ce"
+            },
+            "TSN2_CA": {
+                url: "https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd",
+                k1: "ddc52c88e2c24d38a5bc8dda8a2acb61",
+                k2: "ad5ea485464a13eec7dda3249c556446"
+            },
+            "TSN3_CA": {
+                url: "https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd",
+                k1: "c0f378ad54e14a9c85a3d8c986d2a51f",
+                k2: "5e1d040743ff78715e464ffb905e68a9"
+            },
+            "TSN4_CA": {
+                url: "https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd",
+                k1: "f0a2efd11e0643c3a45d6f67d02f1a97",
+                k2: "85bf4469003bd28f01ea4fefedd5a431"
+            },
+            "TSN5_CA": {
+                url: "https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd",
+                k1: "cb57741a1cee422690c6294a06eb1320",
+                k2: "7a0cfd493df6ef7cc0d0bb3ad95cec8c"
+            },
+            "ASIAN_CUP": {
+                url: "https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd",
+                k1: "d31e0ee60e034e228e7f219650c0d6e2",
+                k2: "c50c247d5a34c1fbd565ad31886287cb"
+            },
+            "SKY_FOOTBALL": {
+                url: "https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720-120.mpd",
+                k1: "0005c37ab85893a379c1e1e5ed60fcf0",
+                k2: "b60a9aa6c55026adfc3f47136ce64924"
+            },
+            "SKY_EPL": {
+                url: "https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd",
+                k1: "00058832b1c058c3de8b5d118cc775d4",
+                k2: "721345f25729d236d6bb317fce797b77"
+            },
+            "SKY_MAIN": {
+                url: "https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd",
+                k1: "000546476256963bd054ded3b6ae5800",
+                k2: "1e497068bcc078fdb2f4296bc400ca2b"
+            },
+            "SKY_NEWS": {
+                url: "https://linear030-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd",
+                k1: "00057bfb9cf2fc40b5ed61f9c8a41d54",
+                k2: "cb9908093e35e3c3f7db06f55913cce0"
+            },
+            "SKY_SPORTS_F1": {
+                url: "https://linear034-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd",
+                k1: "0005c0635a06a943911f666abcef3923",
+                k2: "749cae7fc7f350be6ba7400f11150ea9"
+            },
+            "SKY_SPORT_F1_IT": {
+                url: "https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd",
+                k1: "00366649eb2eb82ee172e1bd310e4136",
+                k2: "27e85c17d97722288ffa5970389d8baf"
+            },
+            "SKY_SPORTS_ARENA": {
+                url: "https://linear028-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsarena)/manifest_720.mpd",
+                k1: "00057b3ded07f870751d40e6d0fe116e",
+                k2: "12ef5b135d7ac0f6fb9018b74374586a"
+            },
+            "SKY_SPORTS_ACTION": {
+                url: "https://linear037-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsaction)/manifest_720.mpd",
+                k1: "000397ec797bffa6a7d2f5f14bf3f90b",
+                k2: "644bb73f541fb127d218ddfc0fccb38f"
+            },
+            "SKY_SPORTS_MIX": {
+                url: "https://linear036-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmix)/manifest_720.mpd",
+                k1: "00052237a76cdb0eb5fcbccf4c16f658",
+                k2: "4e42c0a0ecf6e534426fbb21525c1911"
+            },
+            "SKY_SPORTS_GOLF": {
+                url: "https://linear034-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsgolf)/manifest_720.mpd",
+                k1: "0005f065b6b710a9d4769fb357e2027b",
+                k2: "f26593b44feb0a043b1d6e090ce27a75"
+            },
+            "SKY_SPORTS_TENNIS": {
+                url: "https://linear014-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportstennis)/manifest_720.mpd",
+                k1: "000364189270b77b298a752a45f5cba3",
+                k2: "387bbc9ca6e34310f3581ad047272c9c"
+            },
+            "SKY_SPORTS_CRICKET": {
+                url: "https://linear017-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd",
+                k1: "000546476256963bd054ded3b6ae5800",
+                k2: "1e497068bcc078fdb2f4296bc400ca2b"
+            },
+            "SKY_SPORTS_RACING": {
+                url: "https://linear036-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsracing)/manifest_720.mpd",
+                k1: "00050e1ce745004e9193899c091d7aae",
+                k2: "35c88cb4ab2d667b08aa082124803d39"
+            },
+            "SKY_SPORTS_NEWS": {
+                url: "https://linear030-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd",
+                k1: "00057bfb9cf2fc40b5ed61f9c8a41d54",
+                k2: "cb9908093e35e3c3f7db06f55913cce0"
+            },
+            "BEIN_SPORTS": {
+                url: "https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001",
+                k1: "8e5c88c1ad411ce4aa1fcd3e63fa9448",
+                k2: "fb4e6d3c2a444c3711477438bcc0b5fc"
+            },
+            "BEIN_SPORTS_2": {
+                url: "https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA&tenantId=6001",
+                k1: "1c983e5a03b0f8adde686ef20497e2b4",
+                k2: "f7b1d6556850b472f4f683519f4e41f7"
+            },
+            "BEIN_SPORTS_3": {
+                url: "https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001",
+                k1: "0d2418cc6a29a3516d1854ab2973f25f",
+                k2: "4979b73603b430465aa4e7bbdefbc4cc"
+            },
+            "USA_NETWORK": {
+                url: "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd",
+                k1: "882c9f5613b43b47adc70aa968a308ce",
+                k2: "de534ef8914bfe62ba3cdd6bdb9e1c04"
+            },
+            "BEIN_SPORTS_4_TH": {
+                url: "https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001",
+                k1: "94663e64ef81e90a9deeb0f1993ce11c",
+                k2: "9d6f78876677b543cd4e18c846aa2481"
+            },
+            "BEIN_SPORTS_ASTRO": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd",
+                k1: "1a655189ab5c49eb235308c2b1a9e710",
+                k2: "3c4508af348844107f5e026a4fd6b16e "
+            },
+            "BEIN_SPORTS_2_ASTRO": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd",
+                k1: "39c175581e237eff9559607eb9b23c10",
+                k2: "5102b12aac7756c65dcb46a101d960d3"
+            },
+            "BEIN_SPORTS_3_ASTRO": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd",
+                k1: "20c884ef8ed26b2762f8b1a78f2d1910",
+                k2: "042a21bf236ca729b1e343ed6e0a6337"
+            },
+            "BEIN_SPORTS_RUGBY_ASTRO": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default.mpd",
+                k1: "b722d956bfc6a4508cd91de689c9b810",
+                k2: "7237ff08b36e13aea3d35f4f2572fa39"
+            },
+            "PREMIER_SPORTS_1_ASTRO": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd",
+                k1: "9bfeb5068725617dbad6338473da6d10",
+                k2: "06577ffcc4935ba24aff4c4c9dd6846d"
+            },
+            "RTL_HD": {
+                url: "https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd",
+                k1: "57e48b99f3f6d4f13f5c5afdcca084ca",
+                k2: "29379a5e2d3405fad2f5d9cbe92586c3"
+            },
+            "DAS_ERSTE": {
+                url: "https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd",
+                k1: "667f821486adfa6df62b53e41fe60c65",
+                k2: "be65cc2c378180153cbac97bc6ab8625"
+            },
+            "ZDF": {
+                url: "https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd",
+                k1: "7757d3fa8cdab673a2dd9f3ed7b41360",
+                k2: "96e498b70eeecfc0164ed4e0a78e36f3"
+            },
+            "TIPIK": {
+                url: "https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd",
+                k1: "2f794d3c19854f4fa6f0183b993b86fa",
+                k2: "37077d010758ce2cb85ca46720884b01"
+            },
+            "SPOTV_STADIA_HD": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd",
+                k1: "e7c650ac72dcd0311411832a8271bb10",
+                k2: "ea8fa43cc7102e481cd441c58b2ecb08"
+            },
+            "SPOTV_STADIA_2": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5149/default.mpd",
+                k1: "f7ae1dc71cc58fb876b4e659174f9c10",
+                k2: "d6739aee6c76741763992d37cc66f1b8"
+            },
+            "ZIGGO_SELECT": {
+                url: "https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd",
+                k1: "16bf72dc22743d929c4318e193408373",
+                k2: "eae51a1e3904124963074cbf432c7c8e"
+            }, "ZIGGO_VOETBAL": {
+                url: "https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd",
+                k1: "16bf72dc22743d929c4318e193408373",
+                k2: "eae51a1e3904124963074cbf432c7c8e"
+            },
+            "ZIGGO_DOCU": {
+                url: "https://da-d436236620010b88000103030000000000000008.id.cdn.upcbroadband.com/wp/wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/_shared_cc010062b17300c4504b6ab5681b5417/NL_000098_019255.mpd",
+                k1: "16bf72dc22743d929c4318e193408373",
+                k2: "eae51a1e3904124963074cbf432c7c8e"
+            },
+            "ZIGGO_TENNIS": {
+                url: "https://da-d436236320010b88000103030000000000000005.id.cdn.upcbroadband.com/wp/wp6-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/_shared_cc010062b17300c4504b6ab5681b5417/NL_000099_019256.mpd",
+                k1: "16bf72dc22743d929c4318e193408373",
+                k2: "eae51a1e3904124963074cbf432c7c8e"
+            },
+            "ZIGGO_SPORT": {
+                url: "https://cors-proxy.cooks.fyi/https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd",
+                k1: "bb4b78ef397646e3ae5f13bdb23d56ed",
+                k2: "c1247a942c7126443a93214c67431fe8"
+            },
+            "PREMIER_SPORTS_1": {
+                url: "https://linear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd",
+                k1: "0005b3dba78ae0fe7a9288022d3b3736",
+                k2: "d2827df80dd7e9243ba6b5bbda5dfa82"
+            },
+            "PREMIER_SPORTS_2": {
+                url: "https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd",
+                k1: "0005d61a0ac86aca28176591b21ae2d9",
+                k2: "f87ad1430a7a38fd0ac248fc9a8389b1"
+            },
+            "ESPN_DEPORTES_USA_VPN": {
+                url: "https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd",
+                k1: "be65e5985fa04a49af310f0a92a0260a",
+                k2: "1acb5ff7b0dbfdf19c4dca1aabfaaa11"
+            },
+            "DAZN_LALIGA": {
+                url: "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd",
+                k1: "43d1c3b25207ff38b22ccfe17d302367",
+                k2: "7b1f85f6e81059473b114c16a25c829a"
+            },
+            "TUDN_USA_VPN": {
+                url: "https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd",
+                k1: "85c8956b207c44a693d89984803c908b",
+                k2: "8d8ff21c464506ef396356dd761f5ccd"
+            },
+            "SPORT_TV_1PT": {
+                url: "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+            },
+            "SPORT_TV_2PT": {
+                url: "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+            },
+            "SPORT_TV_3PT": {
+                url: "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+            },
+            "SPORT_TV_4PT": {
+                url: "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+            },
+            "SPORT_TV_5PT": {
+                url: "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+            },
+            "SPORT_TV_6PT": {
+                url: "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+            },
+            "ONETORO": {
+                url: "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+            },
+            "TV_LA_1_ES": {
+                url: "https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd",
+                k1: "a3abc44525eef3b0a7af9138a9dbe34a",
+                k2: "7740f8ae4223ce5ba293028f7f78f1c1"
+            },
+            "TRUE_PREMIER_1_IN": {
+                url: "https://edge2.laotv.la/live/TSport1/index.m3u8"
+            },
+            "TRUE_PREMIER_2_IN": {
+                url: "https://edge2.laotv.la/live/TSport2/index.m3u8"
+            },
+            "VSPORTS_1_NO": {
+                url: "https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd",
+                k1: "4d808f2b9a74536cadbd95be141888ed",
+                k2: "9dd89f67b8885dc65721a8b1fbeae700"
+            },
+            "VSPORTS_2_NO": {
+                url: "https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd",
+                k1: "0d3ff38c34985fdd81a37567646322b9",
+                k2: "6b4504297769acefae2e50920b7c8a77"
+            },
+            "VSPORTS_3_NO": {
+                url: "https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd",
+                k1: "fdcb8ee4623458e5832a92801fc723b1",
+                k2: "634a67c44b7b7030872043df95c1a55e"
+            },
+            "TV2_SPORT_PREMIUM_NO": {
+                url: "https://ch11-hls-live.akamaized.net/out/u/433127.mpd",
+                k1: "d12e4c9dc52f4cbab7ac9b2278317e47",
+                k2: "a7987e5b6ec42db68a25486e108ca9f2"
+            },
+            "TV2_SPORT_1_NO": {
+                url: "https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd",
+                k1: "0c6212056d2f51fcbf569f9a1a8517d1",
+                k2: "d07b404deb7c958347d742e6d1d2f3f9"
+            },
+            "BEIN_XTRA_N_ES": {
+                url: "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8"
+            },
+            "TNT_1_GB": {
+                url: "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+                k1: "ae26845bd33038a9c0774a0981007294",
+                k2: "63ac662dde310cfb4cc6f9b43b34196d"
+            },
+            "TNT_1_GB_2": {
+                url: "https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(tntsport1)/manifest_720.mpd",
+                k1: "00051ad8db73a944abe9ec83ad88987b",
+                k2: "100c985696718d923c4b1289c1cf0d7d"
+            },
+            "TNT_2_GB": {
+                url: "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+                k1: "6d1708b185c6c4d7b37600520c7cc93c",
+                k2: "1aace05f58d8edef9697fd52cb09f441"
+            },
+            "TNT_2_GB_2": {
+                url: "https://linear014-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(tntsport2)/manifest_720.mpd",
+                k1: "00050654545edbcf400de7c11a3ace78",
+                k2: "7fc6cab788206f4b2c10fe5225def411"
+            },
+            "TNT_3_GB": {
+                url: "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+                k1: "4e993aa8c1f295f8b94e8e9e6f6d0bfe",
+                k2: "86a1ed6e96caab8eb1009fe530d2cf4f"
+            },
+            "TNT_3_GB_2": {
+                url: "https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(tntsport3)/manifest_720.mpd",
+                k1: "000540adbb30871d80550825b28bc4c3",
+                k2: "402edc50e9288aadc551bceaf347a517"
+            },
+            "TNT_4_GB": {
+                url: "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+                k1: "e31a5a81caff5d07ea2411a571fc2e59",
+                k2: "96c5ef69479732ae734f962748c19729"
+            },
+            "TNT_4_GB_2": {
+                url: "https://linear014-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(tntsport4)/manifest_720.mpd",
+                k1: "0005091188d73981c2bbd51bbe4a81ab",
+                k2: "2ee68af747c05c250b6a1c80abe57d2d"
+            },
+            "TNT_5_GB": {
+                url: "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
+                k1: "60c0d9b41475e01db4ffb91ed557fbcc",
+                k2: "36ee40e58948ca15e3caba8d47b8f34b"
+            },
+            "TV2_Sport_1_NO": {
+                url: "https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd",
+                k1: "0c6212056d2f51fcbf569f9a1a8517d1",
+                k2: "d07b404deb7c958347d742e6d1d2f3f9"
+            },
+            "SBT_BR": {
+                url: "https://0006-bbc.dtvott.com/dash_live_0035/manifest.mpd",
+                k1: "3ad3dca103185934acff7a0e9000c112",
+                k2: "3f396659d841a55cd1381e6735ecfa1d"
+            },
+             "CLUB_1_BE": {
+                url: "https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd",
+                k1: "b53316f32fc93b51a61ba6fdf0bce6c1",
+                k2: "d752d66843a48a6fed64eed8f87adc3e"
+            },
+            "CANALE_5_IT": {
+                url: "https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd",
+                k1: "00f9f3c0783536b8ce4a30a01a52e082",
+                k2: "e926f7d45af4f7d154c990eae6a2d937"
+            },
+            "ITV1_GB": {
+                url: "https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd",
+                k1: "5d9937d586414096948337ac314d79c1",
+                k2: "22ca2e250b729982c97209e0ff3f7e9b"
+            }, 
+            "ITV2_GB": {
+                url: "https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09214/manifest.mpd",
+                k1: "cf2957d9327e42eebde873dcb48a7b7f",
+                k2: "4ef5e263bbaf80d8daa9593d420d33d0"
+            }, 
+            "ITV3_GB": {
+                url: "https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00305/manifest.mpd",
+                k1: "272e9f1e2c83412cab74056d9d53bab3",
+                k2: "8d1e6569c78dd567db5f69c84e776285"
+            }, 
+            "ITV4_GB": {
+                url: "https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00306/manifest.mpd",
+                k1: "2b169fb2c3214e429b66eb2e19fcafdf",
+                k2: "90a98753d8f41ad08906243230975ff1"
+            }, 
+            "FOX_DEPORTES_USA": {
+                url: "https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd",
+                k1: "c9231d5e7a99429382e6a5c2e588e141",
+                k2: "ca08ab407ab9393a814d720f1f41c6cf"
+            },
+            "BandSports_BR": {
+                url: "https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd?da=1&country=BR&accountType=DTH&deviceType=web",
+                k1: "bd1af42db82f5a17a0d75246f25f5201",
+                k2: "a9edd4e2c410923e9cbcb261102e5008"
+            },
+            "TV2_Sport_NO": {
+                url: "https://ch11-hls-live.akamaized.net/out/u/433127.mpd",
+                k1: "d12e4c9dc52f4cbab7ac9b2278317e47",
+                k2: "a7987e5b6ec42db68a25486e108ca9f2"
+            },
+            "FUTV": {
+                url: "https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8",
+            },
+            "ITALIA_1": {
+                url: "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+                k1: "00f9f3c0783536b8ee91704e23b78016",
+                k2: "bfd04d6f544c9cc4d35cb13ab6778587"
+            },
+            "CANAL_5": {
+                url: "https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8",
+            },
+            "SPORT_PLUS_DE": {
+                url: "https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd",
+                k1: "c1c11c3844b0dffdb9d9831900f1a1da",
+                k2: "a2c31e15346f339ca2b47bdd8591553f"
+            },
+            "HRT_2": {
+                url: "https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd",
+                k1: "994c79af863838109e7f3503bcd2aff9",
+                k2: "d2c19650ad2a2ac77a95453b941a6f0e"
+            },
+            "INFINITY_PLUS_1": {
+                url: "https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd",
+                k1: "00f9f3c0783536b832a8f0326fbdc02e",
+                k2: "ade0533ba667bb7e9847d8f215f03076"
+            },
+            "INFINITY_PLUS": {
+                url: "https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd",
+                k1: "00f9f3c0783536b834b0f0c2bfee80ac",
+                k2: "76b3afbf163f9c3feb6204b8fcf0ff53"
+            },
+            "Astro_Bola": {
+                url: "https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd",
+                k1: "7481d3e3738c46768f138e208fee9076",
+                k2: "e1d428c7f1ca82339a6cfa1d0757428e"
+            },
+            "Astro_Bola_2": {
+                url: "https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd",
+                k1: "99685545491d40b493b3a4b263c7245e",
+                k2: "7939e335bf8cbbd6882f9f5c9cdebe19"
+            },
+            "Astro_Bola_3": {
+                url: "https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd",
+                k1: "ca4f5ff4e4694d54bdfdc9bd34384290",
+                k2: "1100fe297146f7d024b59944f09e6d1a"
+            },
+            "Astro_Supersport_UHD": {
+                url: "https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd",
+                k1: "22fbef1c1cd725e9397ec16455f08210",
+                k2: "7aea43cd93c24aa9834ecb4984f7fd5a"
+            },
+            "Astro_Sports_1": {
+                url: "https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd",
+                k1: "ead0335d60401225727a6d531e9c2710",
+                k2: "1ee3b252227c5c2ec9378c833d2e14ff"
+            },
+            "Astro_Sports_2": {
+                url: "https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd",
+                k1: "0d6d2a1ac8d14e19b17455650770cd99",
+                k2: "ff65174f8ec5d4c88e8d8a21968563cf"
+            },
+            "Astro_Sports_3": {
+                url: "https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd",
+                k1: "0d6d2a1ac8d14e19b17455650770cd99",
+                k2: "ff65174f8ec5d4c88e8d8a21968563cf"
+            },
+            "Astro_cricket": {
+                url: "https://psliveapp.site/ps_mpd_api/channel(astrocricket)/ps_manifest.mpd",
+                k1: "03c2e0af2f8159f9f0ce9b5dbc865f10",
+                k2: "cd84ed136b0cc71f8ab8cd4d4f6a2e4c"
+            },
+            "Astro_Sports_4": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd",
+                k1: "79f4028730acca9ab8b00f26158ddb10",
+                k2: "91febe843c08c7cc523efd827292e40e"
+            },
+            "Willow": {
+                url: "https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd",
+                k1: "b9e69652984f5d3ba16ada75794c9d42",
+                k2: "ba35f32093f5da7352d8aaead4712b8e"
+            },
+            "Willow_Pro": {
+                url: "https://mhdsports.nl/miniproxie.php/https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd",
+                k1: "b9e69652984f5d3ba16ada75794c9d42",
+                k2: "ba35f32093f5da7352d8aaead4712b8e"
+            },
+            "VSport_1": {
+                url: "https://andi-cors-proxy-service-k8s.andisearch.com/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd",
+                k1: "04c5eaf62cd75f2d947ab4d621f39256",
+                k2: "76967598962e7a7314a2b251e9070725"
+            },
+            "VSport_Extra": {
+                url: "https://andi-cors-proxy-service-k8s.andisearch.com/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd",
+                k1: "bc972382f04c531983b7aab6bf642ad8",
+                k2: "ddfd212680eb891b755610eac5becf85"
+            },
+            "Vsport_Football": {
+                url: "https://andi-cors-proxy-service-k8s.andisearch.com/https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd",
+                k1: "ce37e20374e55be6bb4d26837af27605",
+                k2: "52cc532f748fcbf2b806dad4289bf84c"
+            },
+            "VSPORTS_ULTRA_HD": {
+                url: "https://andi-cors-proxy-service-k8s.andisearch.com/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd",
+                k1: "c02b1c0a644d5aa4b7176ae585c572dc",
+                k2: "5a7799ea89ea65e3bac9a10684e616bc"
+            },
+            "VSPORTS_PREMIUM_HD": {
+                url: "https://andi-cors-proxy-service-k8s.andisearch.com/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd",
+                k1: "eab13e69793756eda77d8d71fda90d5d",
+                k2: "cd022e9bffa6a0d1523ee5d9fcda9ed4"
+            },
+            "TYC_International": {
+                url: "https://edge-live15-hr.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd",
+                k1: "58e1ebe75d944f6a98ea67b1c7c0a572",
+                k2: "1c311b069dbce31ce8e62a6e7e2433eb"
+            },
+            "TEN_CRICKET": {
+                url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd",
+                k1: "9872e439f21f4a299cab249c6554daa3",
+                k2: "0cdfcfe0d0f1fbe100554ce3ef4c4665"
+            },
+            "SKY_SPORT_24_IT": {
+                url: "https://linear301-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd",
+                k1: "003618ccd7be22b6367207ed8d64d505",
+                k2: "36e97f29ec5ea6126077cc040cc2ceeb"
+            },
+            "SKY_SPORT_251_IT": {
+                url: "https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd",
+                k1: "0036422cf4293ae7cf1e7f7062cc29e8",
+                k2: "37a223fcc17c087043bc837432fd25d8"
+            },
+            "SKY_SPORT_252_IT": {
+                url: "https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd",
+                k1: "003643bc9d61268c987504fa93b397f6",
+                k2: "b8d5767c73ff8bba68d955035b56f4c1"
+            },
+            "Sky_Sport_253": {
+                url: "https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master.mpd",
+                k1: "0036077996d02761a9d4c29ddfac7466",
+                k2: "e83d078779ae5b53e2eb999513d55682"
+            },
+            "Sky_Sport_254": {
+                url: "https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mpd",
+                k1: "00369c14c20b78aadb1ec0e3c0e74979",
+                k2: "e768767e2c7238d8069887bb36aed7fa"
+            },
+            "Sky_Sport_255": {
+                url: "https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd",
+                k1: "0036b781a22ebb0c20c16ac27d5d1448",
+                k2: "f309b94acfda720bf1ed5741489f8967"
+            },
+            "Sky_Sport_256": {
+                url: "https://linear312-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd",
+                k1: "00366f263859fc1cc82d2c4da6a66ef6",
+                k2: "754ae922d113c54349002cd9a88694a4"
+            },
+            "Sky_Sport_257": {
+                url: "https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd",
+                k1: "0036faeace9872d3ceeb8b1b63f0baa3",
+                k2: "dbd41ee944243307d39b7b27f16615a8"
+            },
+            "SKY_258_IT": {
+                url: "https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd",
+                k1: "0036fd8ccfddba47c8b40aeff63a797c",
+                k2: "dfd5c9d0f4ac6f3a1bd89803399e7026"
+            },
+            "SKY_259_IT": {
+                url: "https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31613/skysport259/master.mpd",
+                k1: "0036644f7699f43e401f88d920dc385c",
+                k2: "e5b0cebdc3edd7996d283041535fce9c"
+            },
+            "SKY_SPORT_CALCIO_IT": {
+                url: "https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd",
+                k1: "00369a2c69176d5a2deff777247b6637",
+                k2: "e122d4bad34c1e430ee349f5aac0060b"
+            },
+            "SKY_SPORT_MAX_IT": {
+                url: "https://linear305-it-dash1-prd-ll.cdn13.skycdp.com/016a/31248/FHD/skysportmax/master.mpd",
+                k1: "0036ae9248d939e4e1cd2198d2593a42",
+                k2: "efc6699e1756403916b0280ea63f4c28"
+            },
+             "SKY_SPORT_MOTOGP_IT": {
+                url: "https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd",
+                k1: "0036ea2e908d4cc20ef08595da9ff991",
+                k2: "08e1ae9fa0ee4d9ec2b194c4908613ae"
+            },
+            "SKY_SPORT_NBA_IT": {
+                url: "https://linear301-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd",
+                k1: "0036c4e453ae2a044f4c861ed73b560a",
+                k2: "ea5626c0aa092c382ca58151b5f4b208"
+            },
+            "SKY_SPORT_UNO_IT": {
+                url: "https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd",
+                k1: "0036dc70e4d659fe5ae57b52793a1ff3",
+                k2: "55517f806b6be917c2bf0e9cf9acc44f"
+            },
+            "ESPN_AR": {
+                url: "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
+                k1: "e884b711ab111beb8a7ba1e7bcbdc9bf",
+                k2: "cb89ee3961599e3e648a5aad60895f34"
+            },
+            "ESPN_2_AR": {
+                url: "https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd",
+                k1: "65a5bfa3c7a72dde60be9b0c7406c8fc",
+                k2: "0b40ae9f78a7bac3b57ecbf72d3c081e"
+            },
+            "ESPN_3_AR": {
+                url: "https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd",
+                k1: "f4c9f97e2a36feab0e5077f2b44cbc4e",
+                k2: "1743cd03dfe3736b2c95da91a783af38"
+            },
+             "ESPN_DEPORTES": {
+                url: "https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd",
+                k1: "be65e5985fa04a49af310f0a92a0260a",
+                k2: "1acb5ff7b0dbfdf19c4dca1aabfaaa11"
+            },
+            "ESPN_EXTRA": {
+                url: "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+                k1: "cc8d44406ed6bf1898ad9f7a2d64f29e",
+                k2: "fb85d059687ab0fc67805806204edbdf"
+            },
+            "FOX_DEPORTES_USA": {
+                url: "https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd",
+                k1: "c9231d5e7a99429382e6a5c2e588e141",
+                k2: "ca08ab407ab9393a814d720f1f41c6cf"
+            },
+            "FOX_SPORTS_1_US": {
+                url: "https://linear.stvacdn.spectrum.com/LIVE/5239/bpk-tv/00700/drm/manifest.mpd",
+                k1: "ff18f095bc835e8d902be9420438729e",
+                k2: "bbfdc8de223e8b33144d5c718f01f58b"
+            },
+             "FOX_SPORTS_2_AR": {
+                url: "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd",
+                k1: "c98ddffc470fe449ae1a8d6492116976",
+                k2: "5086d370e840010232cf4532b16e197f"
+            },
+            "FOX_SPORTS_3_AR": {
+                url: "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd",
+                k1: "55b47390cf9e4997dae6dac85e057875",
+                k2: "fa39e855543c5d70f30600d59e5e4c1b"
+            },
+            "CRICLIFE_1": {
+                url: "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife_Women/DASH/CricLife_Women.mpd",
+                k1: "e96c353e4f34c2b22daddcb0ad19c500",
+                k2: "914c21c58098682994b1b411acf1047f"
+            },
+            "CRICLIFE_2": {
+                url: "https://criclive2.starzplayarabia.com/out/v1/1b232653e5254150a60a577cc8db682f/index.mpd",
+                k1: "cf671610fa53cc56b07b1d235169fc81",
+                k2: "50ac62719a1205fd08c01e368e27e3d4"
+            },
+            "CRICLIFE_2_2": {
+                url: "https://live4.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd",
+                k1: "4301796d6d67374043c4a43c18dff7ea",
+                k2: "96a3dc8766317aa169149a604928ebb6"
+            },
+            "CRICLIFE_3": {
+                url: "https://cricmax.starzplayarabia.com/out/v1/6a04831479eb46efaaf840eb558371ef/index.mpd",
+                k1: "b6045efd2889ce05f4800e2f7ac0d3ee",
+                k2: "abf072f537b8f4872be45f971ba24503"
+            },
+            "PTV_SPORTS": {
+                url: "https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd",
+                k1: "9ecad6c4413f8bdc54712ce6c072a2cf",
+                k2: "442df559c369bdada8ba3abe97811575"
+            },
+             "CRIC_BUZZ": {
+                url: "https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd",
+                k1: "4301796d6d67374043c4a43c18dff7ea",
+                k2: "96a3dc8766317aa169149a604928ebb6"
+            },
+            "THE_PAPARE": {
+                url: "https://bpcdn.dialog.lk/bpk-tv/Ch126/output/index.mpd",
+                k1: "01b1bafc996378ec0a7cb804aedca646",
+                k2: "e1669c99c646fbbe4d4ade8dfe3a3963"
+            },
+            "AIS_SPORTS_1": {
+                url: "https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd",
+                k1: "b6045efd2889ce05f4800e2f7ac0d3ee",
+                k2: "abf072f537b8f4872be45f971ba24503"
+            },
+            "CRICLIFE_MAX": {
+                url: "https://cmaxlive.starzplayarabia.com/out/v1/bebec73ea17b40b3bd0257ad8e97b531/index.mpd",
+                k1: "ec2168a420478062ec89540dad862bdd",
+                k2: "d6d63d7a1391d2a89fb12e5e1c5ced01"
+            },
+            "STARSPORTS_1": {
+                url: "https://bpcdncs2.dialog.lk/bpk-token/2aa@3n3xdna4v5ourqi4d3l0c0ph0apl5qv0kc23d4ba/GlobalManifest.mpd",
+                k1: "79b340b2b5f7c3c89951daabde7cdf97",
+                k2: "3e22bc39d22a7f8c3516f6b58b144668"
+            },
+            "STARSPORTS_HINDI": {
+                url: "https://rftv.wtf/ch.mpd?id=24",
+                k1: "24fe8f3887e0550db02ca596fd480175",
+                k2: "79a62f3a5f3fa324f4de420d370a05b5"
+            },
+            "STARSPORTS_2_SD": {
+                url: "https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd",
+                k1: "79b340b2b5f7c3c89951daabde7cdf97",
+                k2: "3e22bc39d22a7f8c3516f6b58b144668"
+            },
+             "STARSPORTS_2_HD": {
+                url: "https://rftv.wtf/ch.mpd?id=235",
+                k1: "e5b99f622ea0573d94470d22b340d6c0",
+                k2: "0f3c040b86b1a7f731565d71cf676401"
+            },
+           "STAR_SELECT_1": {
+                url: "https://rftv.wtf/ch.mpd?id=246",
+                k1: "c6fc677428aa54f29ffca8ae9737a1db",
+                k2: "9f95277e4dc789b864d5bcb09a7431d6"
+            },
+            "STAR_SELECT_2": {
+                url: "https://rftv.wtf/ch.mpd?id=463",
+                k1: "8b95761b0dc7572e825eae11bd37cca9",
+                k2: "74e598c7e140bba6cb14dd2189bc4111"
+            },
+            "DAZN_1_ES": {
+                url: "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
+                k1: "44dd9cd370b08a868ead115fe84ecfde",
+                k2: "bff19ab0a51cf14e848389b152913fd0"
+            },
+            "DAZN_2_ES": {
+                url: "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd",
+                k1: "0eab5a3f3e3b4ba5d42d40ca30d17571",
+                k2: "f3f061ded9b70e8160590d5802ecda6d"
+            },
+            "DAZN_3_ES": {
+                url: "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd",
+                k1: "bad8efff688c0dbb3711e4a7114c22a3",
+                k2: "6ba800673b20776c0c850130d45e1920"
+            },
+            "DAZN_4_ES": {
+                url: "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd",
+                k1: "d27104d427e4f87e75b19395a9f8796b",
+                k2: "723593c70e2d4c4862754398e80168f8"
+            },
+            "DAZN_F1": {
+                url: "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
+                k1: "1061be12d303247426ec25e8369b2647",
+                k2: "bd622b0e610295de3b0bccb850ccaaaa"
+            },
+            "DAZN_WOMENS_FOOTBALL": {
+                url: "https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-503/stream.mpd",
+                k1: "cfb5e2b73bef4f3c878f25ab86a7451f",
+                k2: "0d6712bf2a84edcc93d001a9613f6fec"
+            },
+            "DAZN_COMBET": {
+                url: "https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-502/stream.mpd",
+                k1: "cfb5e2b73bef4f3c878f25ab86a7451f",
+                k2: "0d6712bf2a84edcc93d001a9613f6fec"
+            },
+            "DAZN_FAST": {
+                url: "https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-504/stream.mpd",
+                k1: "cfb5e2b73bef4f3c878f25ab86a7451f",
+                k2: "0d6712bf2a84edcc93d001a9613f6fec"
+            },
+            "DAZN_RISE": {
+                url: "https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-501/stream.mpd",
+                k1: "cfb5e2b73bef4f3c878f25ab86a7451f",
+                k2: "0d6712bf2a84edcc93d001a9613f6fec"
+            },
+            "DAZN_Golf": {
+                url: "https://dzn.chanox97.workers.dev/https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-505/stream.mpd",
+                k1: "cfb5e2b73bef4f3c878f25ab86a7451f",
+                k2: "0d6712bf2a84edcc93d001a9613f6fec"
+            },
+            "DAZN_3": {
+                url: "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd",
+                k1: "bad8efff688c0dbb3711e4a7114c22a3",
+                k2: "6ba800673b20776c0c850130d45e1920"
+            },
+            "DAZN_4": {
+                url: "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd",
+                k1: "d27104d427e4f87e75b19395a9f8796b",
+                k2: "723593c70e2d4c4862754398e80168f8"
+            },
+            "EUROSPORT_1_ES": {
+                url: "https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd",
+                k1: "237be8ca9383755e9f5784dd23f545eb",
+                k2: "15a723773c3b3cbce295c0aed0bc71c3"
+            },
+            "EUROSPORT_2_ES": {
+                url: "https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd",
+                k1: "15382879a9bcfa6f1a04a86d5b4324e9",
+                k2: "664241133368ab039dc1fb15206ba54b"
+            },
+             "EUROSPORT_1_UK": {
+                url: "https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master.mpd",
+                k1: "0036bb3fa7e6f2c334d7cba5c28b6caf",
+                k2: "217fa35739cd68e90b2cd23322c01312"
+            },
+            "EUROSPORT_2_UK": {
+                url: "https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master.mpd",
+                k1: "003670a7034342a4a07c91173818c61c",
+                k2: "7b90055c1a1ea34d9090e9ebf6c4db8a"
+            },
+            "ELEVEN_SPORTS_1_PT": {
+                url: "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+            },
+            "ELEVEN_SPORTS_2_PT": {
+                url: "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+            },
+            "ELEVEN_SPORTS_3_PT": {
+                url: "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+            },
+            "ELEVEN_SPORTS_4_PT": {
+                url: "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+            },
+            "ELEVEN_SPORTS_5_PT": {
+                url: "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+            },
+            "ELEVEN_SPORTS_6_PT": {
+                url: "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+            },
+            "LALIGA_HYPE": {
+                url: "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd",
+                k1: "0b1fdeaee3ffc51e9a66cf1938d57aaf",
+                k2: "28e3cb88ab7b476b81ab8aa0624c4d71"
+            },
+            "SPORTS18_SD": {
+                url: "https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_SD_voot_MOB/output/index.mpd",
+                k1: "8fa2127117f754ab9a74fb6be7949429",
+                k2: "8797d5178620c79676ffccec41d2d3f6"
+            },
+            "SPORTS18_KHEL": {
+                url: "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8",
+                k1: "8fa2127117f754ab9a74fb6be7949429",
+                k2: "8797d5178620c79676ffccec41d2d3f6"
+            },
+             "SPORTS18_HD": {
+                url: "https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd",
+                k1: "d86185f50f5952589c280167ee8e45c5",
+                k2: "6bff81346539e4bcc9abdb351f1c855e"
+            },
+             "CANALE_5_ITALY": {
+                url: "https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd",
+                k1: "00f9f3c0783536b8ce4a30a01a52e082",
+                k2: "e926f7d45af4f7d154c990eae6a2d937"
+            },
+            "EUROSPORT_1_ITALY": {
+                url: "https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd",
+                k1: "0036bb3fa7e6f2c334d7cba5c28b6caf",
+                k2: "217fa35739cd68e90b2cd23322c01312"
+            },
+            "EUROSPORT_2_ITALY": {
+                url: "https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd",
+                k1: "003670a7034342a4a07c91173818c61c",
+                k2: "7b90055c1a1ea34d9090e9ebf6c4db8a"
+            },
+            "ESPN_PREMIUM": {
+                url: "https://clbpktstvdash-3.clarovideo.com/bpk-tv/FOXSPORTS1HD/dash_fk/index.mpd",
+                k1: "93195148e6b1f97cdd31224d04db2e0d",
+                k2: "dd7fcfad44d7e498daf1f5cb8c09d5e3"
+            },
+            "NBC_USA": {
+                url: "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd",
+                k1: "0045a118e231f1326bcdb45350b1ceaa",
+                k2: "8c13afbfa54ea37a368b8b859021f6e3"
+            },
+            "NBC_GOLF": {
+                url: "https://nrfkcdedge03.national-linear-ddtc-tve.tve.cox.net/GOLFD_HD_CX_DDTVE_61854_0_7746784456702405163.mpd",
+                k1: "1ee2468acaaacb9ce2e99440231e7c36",
+                k2: "2b090882f9d500aea436ab5aa12705c4"
+            },
+            "NBC_GOLF_2": {
+                url: "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd",
+                k1: "d5c9203447ab38c5bf5b407cdd9de5e8",
+                k2: "501464dfa2ac437098c35e1c4f16bb6b"
+            },
+            "TV_LA_1_ES": {
+                url: "https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd",
+                k1: "a3abc44525eef3b0a7af9138a9dbe34a",
+                k2: "7740f8ae4223ce5ba293028f7f78f1c1"
+            },
+        };
+
+
+
+
+
+
+
+
+
+
+  "ASTRO_ARENA_BOLA_2": {
+                url: "https://arenabola2.astradamy.com/dash-wv/jitp-linearwm/5100/default.mpd",
+                k1: "62a7b7917aad5123cd4df65c561c7010",
+                k2: "b1effa9e51cf38b3ae676bc264937efb"
+            },
+            "ASTRO_ARENA_BOLA": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5098/default.mpd",
+                k1: "0b2b71fb15e827d789977ede8ee89810",
+                k2: "2650bf29784f7603556fabc03615df48"
+            },
+            "ASTRO_ARENA_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd",
+                k1: "efda647dad723563b625be8c05ee6110",
+                k2: "6776985938b332164b97b81fe566a34a"
+            },
+            "ASTRO_ARENA_2_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd",
+                k1: "ead0335d60401225727a6d531e9c2710",
+                k2: "1ee3b252227c5c2ec9378c833d2e14ff"
+            },
+            "SPOTV2": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd",
+                k1: "5efd26da5001363b4d6fa4a9c812ad10",
+                k2: "ed6d67d953d14b026b2602cf8846577e"
+            },
+            "ASTRO_SUPERSPORT_HD": {
+                url: "https://staging-linearjitp02-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd",
+                k1: "f749ab71f227999bfb098f73359aac10",
+                k2: "4f15413f7e4767b50c48e19b7f9a2fcc"
+            },
+            "ASTRO_SUPERSPORT_2_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd",
+                k1: "c1dc92f0789f112503c0db3bde2f1210",
+                k2: "ddfa6e8d549b4d5177a9cade7f9a0b23"
+            },
+            "ASTRO_SUPERSPORT_3_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd",
+                k1: "5be66a6f88efee3d6e30f72a9c58e310",
+                k2: "168f3fadfc730ba3dfc932f7c430e27d"
+            },
+            "ASTRO_SUPERSPORT_4_HD": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd",
+                k1: "79f4028730acca9ab8b00f26158ddb10",
+                k2: "91febe843c08c7cc523efd827292e40e"
+            },
+            "ASTRO_SUPERSPORT_5_HD": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default.mpd",
+                k1: "302b71ba9e9d67372000e2bdbf0bfc10",
+                k2: "595da2967f1667a2987c0f22ef481b9e"
+            },
+            "SPOTV": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd",
+                k1: "c0e1804aa1d9fd9c41c41bf0f61a5f10",
+                k2: "758823e4eabb6e4c8c036d073db46b8c"
+            },
+            "BEIN_SPORTS_2": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd",
+                k1: "39c175581e237eff9559607eb9b23c10",
+                k2: "5102b12aac7756c65dcb46a101d960d3"
+            },
+            "BEIN_SPORTS_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd",
+                k1: "1a655189ab5c49eb235308c2b1a9e710",
+                k2: "3c4508af348844107f5e026a4fd6b16e"
+            },
+            "BEIN_SPORTS_3": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd",
+                k1: "20c884ef8ed26b2762f8b1a78f2d1910",
+                k2: "042a21bf236ca729b1e343ed6e0a6337"
+            },
+            "EUROSPORT_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd",
+                k1: "4db23a41babfe9afc222a58c59828310",
+                k2: "d0e794e3cff564ed2c720a098eb177c7"
+            },
+            "WWE_NETWORK_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd",
+                k1: "0cbc4d3b4fbd9af512acb2488bb42910",
+                k2: "30528c4ef882954e5707cd1001d66121"
+            },
+            "GOLF_CHANNEL_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd",
+                k1: "705bab5e645b6d7c95588b29520f8110",
+                k2: "28639bcfb5cbee8ff9ca398fcf5bfcd0"
+            },
+            "PREMIER_SPORTS": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd",
+                k1: "9bfeb5068725617dbad6338473da6d10",
+                k2: "06577ffcc4935ba24aff4c4c9dd6846d"
+            },
+            "ASTRO_CRICKET_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd",
+                k1: "03c2e0af2f8159f9f0ce9b5dbc865f10",
+                k2: "cd84ed136b0cc71f8ab8cd4d4f6a2e4c"
+            },
+            "ASTRO_FWC_1": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5090/default_primary.mpd",
+                k1: "df6b46764282a8b7b9a9b36729f95310",
+                k2: "2a68926d1ae98a2a21bfb635c64cbf37"
+            },
+            "ASTRO_FWC_2": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5091/default_primary.mpd",
+                k1: "52e7794d1545e646911ab8f52a726b10",
+                k2: "418632d88655f5adffed8a1cfbb09b4b"
+            },
+            "ASTRO_WARNA_HD": {
+                url: "https://warna.astradamy.com/dash-wv/jitp-linearwm/2402/default.mpd",
+                k1: "aa2c653f0c05567ae283c4a3271a9810",
+                k2: "0a80e20c568e88e53c7087c1c6493318"
+            },
+            "AL-HIJRAH": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd",
+                k1: "41a42fb5af457501c11bb9b158d5a110",
+                k2: "57a8d6f9e3832887db18ea6071118736"
+            },
+            "ADITHYA": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd",
+                k1: "859f5b2054c4073e8f0da463d208b910",
+                k2: "5eb3762b1a4631a0b98e25e23cef0193"
+            },
+            "KBS_WORLD_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd",
+                k1: "692950d39869c92af9a9ddea453c0d10",
+                k2: "eadc626ab959255f7ab881c03d306fe2"
+            },
+            "NHK_WORLD_PREMIUM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd",
+                k1: "98817b144bcf19fd0ddca7fe54cee110",
+                k2: "44b423a77dd34ace162db35cbb"
+            },
+            "CRIME_&_INVESTIGATION_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd",
+                k1: "22fc5baf47ae3b6322bc244206bbb210",
+                k2: "db1ee2b8994b91aac65049ef3e493787"
+            },
+            "DMAX_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd",
+                k1: "0e21da304a29298ceca1fdfd1e71e210",
+                k2: "87de38cf3ed2bbcd5d89b63e571bfe21"
+            },
+            "HITZ_FM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd",
+                k1: "c759f4bc157b00a7b1dba7873197fc10",
+                k2: "96da0bbe83b8f54194e42428e1fd6632"
+            },
+            "MY_FM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd",
+                k1: "8f618c12955ac5c431f5f901451c9d10",
+                k2: "433fa68d6ec980675c96bb5ae2e01789"
+            },
+            "LITE_FM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/123/default_primary.mpd",
+                k1: "e8ab350491e05128235859f127225b10",
+                k2: "b59d48e5da5e34a1d17bcb6e8cc36267"
+            },
+            "MIX_FM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/122/default_primary.mpd",
+                k1: "14f020e638635a66792cc7955e4d2810",
+                k2: "8e2be3777dd95fb09ce2a70cf099cf8a"
+            },
+            "ERA_FM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd",
+                k1: "85294251c8aeb373689eaa0ea9587810",
+                k2: "4d559fcc12052d9e7fce0f8f6592bba1"
+            },
+            "SINAR_FM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd",
+                k1: "7af3ec1f2db077ae6374a018cbb48510",
+                k2: "9458ed76e85f1ad8aa7eefcdbd628908"
+            },
+            "MELODY_FM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/132/default_primary.mpd",
+                k1: "d34dc49701f9c22b9f20baabb27ad410",
+                k2: "6df52c46b193522fe87420938e029759"
+            },
+            "THR_RAAGA": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd",
+                k1: "8d9ba6f62b14a5d5706b21007bc21310",
+                k2: "058790fb88613e6a71028aafa2258403"
+            },
+            "CLASSIC_ROCK": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/124/default_primary.mpd",
+                k1: "74377f9dea75453994f7f6f5edb08e10",
+                k2: "a064d58fa49d67614b052ab9a92a375c"
+            },
+            "GOLD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/125/default_primary.mpd",
+                k1: "8f92ecdf4cd1ac55bc8c788fa1958610",
+                k2: "715c8401d7829c9a7c5d665922ca13f6"
+            },
+            "OPUS": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/120/default_primary.mpd",
+                k1: "a14f9a14450a96032b106d4ee8181310",
+                k2: "b0b97cca1f9e311a09d33265c85a20e8"
+            },
+            "THR_GEGAR": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd",
+                k1: "70b6a9d1c5f5d275accf0a8c51dbf710",
+                k2: "a0feca3810b9227592bd893bfb9f1f89"
+            },
+            "INDIA_BEAT": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd",
+                k1: "2b4e873bc93eff959ba232e1fa016f10",
+                k2: "3e84b173e8997210fd270b7029491a9e"
+            },
+            "JAZZ": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd",
+                k1: "1bbab67b1f95ae9a32db73a88c308110",
+                k2: "b284563fcddeb078b5bfe0efb684ffa1"
+            },
+            "OSAI": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/131/default_primary.mpd",
+                k1: "082e516398c5ea15d6b9cda572247c10",
+                k2: "cb8b2f2190cd84b62e6876fcc6bf24bf"
+            },
+            "BAYU": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/135/default_primary.mpd",
+                k1: "5515d4f22664e386c62f7cf2c166ab10",
+                k2: "f72c380581aa12a016ea88789c679c67"
+            },
+            "KENYALANG": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd",
+                k1: "fdd9690c43631eac67dbfb11a6d6a510",
+                k2: "53bcece8d71ecbe7bac08a94927cf358"
+            },
+            "NAS_FM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/129/default_primary.mpd",
+                k1: "ae8c20070c706333ad13230f05411c10",
+                k2: "9c0832a8dbc36d2ab5892600ea6960fd"
+            },
+            "V_FM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/133/default_primary.mpd",
+                k1: "ed4dc7b6e2225c45634e9d63272a9b10",
+                k2: "57d4290607a9a3a163de07388fcdf58d"
+            },
+            "WAI_FM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/137/default_primary.mpd",
+                k1: "bde4784bc64eb326169d11c10a0b1510",
+                k2: "bc9df5e162c5692669a8ec6366c9e4db"
+            },
+            "TRAXX_FM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/138/default_primary.mpd",
+                k1: "74c6ae20ff7e31ee2aa1812bc7931310",
+                k2: "865a25aba8134164791b29793d7b97db"
+            },
+            "MINNAL_FM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/139/default_primary.mpd",
+                k1: "4a2428702c66220ce105d5cba2033410",
+                k2: "d2011e32b524a02e43978e1a066394bd"
+            },
+            "AI_FM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/140/default_primary.mpd",
+                k1: "99d0060f4d3333be90b0cae6addb4310",
+                k2: "2f61d66cfce12bcb056571510999f3bf"
+            },
+            "ASYIK_FM": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd",
+                k1: "ba01b2f73c76432e649092767f107010",
+                k2: "8c198e97119e46dad9a4d693f5a82aff"
+            },
+            "ZAYAN": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd",
+                k1: "f8366fd866e0ef521268b53446203610",
+                k2: "8ac6d3ead461c5c1497ab25a8bd1f619"
+            },
+            "GOXUAN": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd",
+                k1: "ee738a67776d147e95f95df27e626b10",
+                k2: "ef1e7ce3e50a78788ce1831cea8e187d"
+            },
+            "SUN_NEWS": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd",
+                k1: "0a171cc1bb90f78820cf25cc55f0ee10",
+                k2: "ac08792047218ca2a01f2bbd12d90501"
+            },
+            "TVB_ENTERTAINMENT_NEWS_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd",
+                k1: "fa629c3640ce533c755509f67f75e610",
+                k2: "af710a06fd67975b99db4a47a757b84b"
+            },
+            "PHOENIX_INFO_NEWS_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5009/default_primary.mpd",
+                k1: "9729558a9bff8d94774bfa2f019a1310",
+                k2: "8b9eb7ab7196a425d9ab618a5c9f99d9"
+            },
+            "CCTV4_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd",
+                k1: "db1a338f71d40186f5997cb085bb3f10",
+                k2: "8425690c4844fbb01b5eae706bc2f7c6"
+            },
+            "ASTRO_AWANI_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd",
+                k1: "6f06f3b3cf7cbad0cc8b21e2c94dfb10",
+                k2: "525510cfa634bd630af8c95fa93576ca"
+            },
+            "CGTN_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5019/default_primary.mpd",
+                k1: "fc66ef0ee35b5ba639dc0e13c5f8a910",
+                k2: "9e706161f02fb99cb692d2965470494e"
+            },
+            "CNN_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd",
+                k1: "1b618a291cece44c9845dddfc4fd9b10",
+                k2: "bf7e1b97555c4acb7455f711b2a9ff16"
+            },
+            "BBC_WORLD_NEWS_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd",
+                k1: "01767d1c2315c0e9556f477fb1f0c710",
+                k2: "77ec0eeb21c07812fd7c58628366ccb3"
+            },
+            "AL_JAZEERA_ENGLISH_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd",
+                k1: "b1fbd0874e7923f5b05929a042aa0610",
+                k2: "6c3c498113abffdf454dc935319a794d"
+            },
+            "SKY_NEWS_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd",
+                k1: "4bef7fc1bcb6bd7f287def940e38cb10",
+                k2: "b0dadd74b713e4b29fd27e147cae7133"
+            },
+            "CNA_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/605/default_primary.mpd",
+                k1: "f812aeae6be5b924a8181b512d5d7910",
+                k2: "44275884ee394d05081fde395ff6e415"
+            },
+            "CNBC_ASIA_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/900/default_primary.mpd",
+                k1: "c3a38f1340531759a1ca97bc5d80c810",
+                k2: "602827a870d49862d1a23f2912957b4c"
+            },
+            "BLOOMBERG_TV_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd",
+                k1: "db1343545ae25ddecf8dfa4422f35410",
+                k2: "79a044b30d64f5c37e6d45d503cbb280"
+            },
+            "DW_ENGLISH": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/9984/default_primary.mpd",
+                k1: "7edf3bd590cf337f721a2e5bec361510",
+                k2: "13bb829ce4836ccf74071c45993978c5"
+            },
+            "FRANCE24": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/9985/default_primary.mpd",
+                k1: "3b0c1cebd0c4518d600f52c354ed1910",
+                k2: "76d409ffc4eaa012c61d8c31bd13df5d"
+            },
+            "SUN_MUSIC_HD": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd",
+                k1: "beaca9461f7ca0d58ba529fed2e7b610",
+                k2: "da0a70148e126eb40cce02665753896d"
+            },
+            "MTV_LIVE": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd",
+                k1: "3ac2542a4f7be746633db07647451710",
+                k2: "22f964a6d6927ccdba482e775cdff190"
+            },
+            "ASTRO_CITRA_HD": {
+                url: "https://citra.astradamy.com/dash-wv/jitp-linearwm/2700/default.mpd",
+                k1: "84bf9ad6848be7db20f9d16823deef10",
+                k2: "654f2d25a5bfb27c9e5ae0852584a166"
+            },
+            "ASTRO_VELLITHIRAI_HD": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd",
+                k1: "9c44af8b594b6157f55d3c31bd679c10",
+                k2: "c128bbe41e94d15a7f8cc2f6253a54b2"
+            },
+            "KTV": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd",
+                k1: "8e7863a8e770b0d72ebe4a68437b6410",
+                k2: "73648ceba3751645926d45421c85d927"
+            },
+            "SUN_LIFE": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd",
+                k1: "e3e1be94e6c193fa21787ce8435db610",
+                k2: "726304708c429f613ec2dc53619d6f76"
+            },
+            "CELESTIAL_MOVIES_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd",
+                k1: "c5c1ba26907291afec11a9a78d513410",
+                k2: "361197805d0149c29801946cf2dde67c"
+            },
+            "ASTRO_AOD_311": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd",
+                k1: "691916164be2b1ae6c852f1990d1fe10",
+                k2: "38a68c749898114cf0629d77e246a888"
+            },
+            "CELESTIAL_CLASSIC_MOVIES": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd",
+                k1: "a642dd4bf3ea782e19202adefb604b10",
+                k2: "3f59355e15eed1bb219ea1687d55cfbb"
+            },
+            "ASTRO_AOD_352": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd",
+                k1: "a0c1f00f14777b3daf4a912c4310f110",
+                k2: "e1db5e07a2bfe0fbf94ce56b5e139f48"
+            },
+            "ASTRO_AOD_354": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd",
+                k1: "286aef4e8d85db66e05fe4a5c799e410",
+                k2: "176e2938bce795d1c85559a2440477f7"
+            },
+            "BOO_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd",
+                k1: "ea4d51ade01bbf3946e0de973051ba10",
+                k2: "f3266bec607f25879f48640f30f1c888"
+            },
+            "HBO_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd",
+                k1: "a098896d2b11c5f3906a993c3ba5c610",
+                k2: "f3f842c54cc96cbbd0bcb96a4cb8a813"
+            },
+            "CINEMAX_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd",
+                k1: "efdb2a8d39151cc39f4b51d762cf9c10",
+                k2: "13cc535ad4a73201147863cac386cdd3"
+            },
+            "TVN_MOVIES_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd",
+                k1: "8e269c8aa32ad77eb83068312343d610",
+                k2: "d12ccebafbba2a535d88a3087f884252"
+            },
+            "TLC_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd",
+                k1: "942ec156203b2aca1ddf3498f663c110",
+                k2: "7f5e6c69698ddefcb74553431b2b1c98"
+            },
+            "FOOD_NETWORK_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd",
+                k1: "2d13c814df4a0c2ce488b2eda052d710",
+                k2: "2dc2a7617bde2ab00136ee689c56d789"
+            },
+            "ASIAN_FOOD_NETWORK_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd",
+                k1: "346b9f41e2933748c8861f82932e0110",
+                k2: "cf0cffb637b81598a27bd6b0d90d65a8"
+            },
+            "HGTV_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd",
+                k1: "8c1bb309955eee32882390abebe19810",
+                k2: "2a695b046e7cf5811a634d1348441195"
+            },
+            "DISCOVERY_CHANNEL_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd",
+                k1: "276767a578aae2eacb284247ccd9eb10",
+                k2: "03ef88df1a47669e5459e105e3b535b1"
+            },
+            "DISCOVERY_ASIA_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd",
+                k1: "3ff02fcd80c2e3230c52ae70fe903410",
+                k2: "c3a58ec867cc25829e1fbe8938442553"
+            },
+            "HISTORY_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd",
+                k1: "3feecc36930732cbb69306dc687c6f10",
+                k2: "3458265f7530bf1fef204ca8cb4689db"
+            },
+            "ANIMAL_PLANET_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd",
+                k1: "d5199f1513a0286e038dae8f7d820010",
+                k2: "4d4d4d9dc41be43f528a4940cf66f14c"
+            },
+            "ASTRO_TUTOR_TV_SK_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5070/default_primary.mpd",
+                k1: "88b324e7e763532b770d84d370d7c810",
+                k2: "0ad1e7b2d71fd73a5c199739e534da4b"
+            },
+            "ASTRO_TUTOR_TV_SMK_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd",
+                k1: "8829b8f4d91d2630f398c67ed94c2310",
+                k2: "aed9dc02038725aadbd0c7bd1709240b"
+            },
+            "GLOBAL_TREKKER": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default.mpd",
+                k1: "92d34a84fae8e54de0a829629941be10",
+                k2: "2fb39ab3f55333d5fa3e830ebf99ec16"
+            },
+            "ASTRO_XIAO_TAI_YANG_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2711/default_primary.mpd",
+                k1: "5cc5c01f66159595245fe8ae67910b10",
+                k2: "3af580c7b21840030179f4dcad227c8a"
+            },
+            "ASTRO_CERIA_HD": {
+                url: "https://ceria.astradamy.com/dash-wv/jitp-linearwm/2606/default.mpd",
+                k1: "b6e60ca0d28e8f97395f07b4e2e53a10",
+                k2: "0f0ea6c3543c29d7f513eb886eb74f88"
+            },
+            "CARTOON_NETWORK_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd",
+                k1: "1a05bebf706408431a390c3f9f40f410",
+                k2: "89c5ff9f8e65c7fe966afbd2f9128e5f"
+            },
+            "NICKELODEON_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd",
+                k1: "d8520e96a1283ab6e5be538474bfa810",
+                k2: "bda5f7bbc1e44096f779a0619fe9881f"
+            },
+            "NICK_JR.": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd",
+                k1: "fa65220c9f76e424173899df533a6d10",
+                k2: "b4abbee95b69b3e80a0d141272c870db"
+            },
+            "CBEEBIES": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd",
+                k1: "50c699c444e5f80dacafc4c99667d810",
+                k2: "de6c5feaae5f6963b4b392ddc8b6a778"
+            },
+            "DREAMWORKS": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5095/default.mpd",
+                k1: "b5bfe3554df2abcd37afe130a7e1d310",
+                k2: "dccbdf043ac43d18be0b3eb43a582876"
+            },
+            "ASTRO_GO_LIVE_EVENT_1": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd",
+                k1: "cb18945925e65d411fbb986d72531010",
+                k2: "15ff74ae1064c5f2fb00d2995fa88955"
+            },
+            "ASTRO_GO_LIVE_EVENT_2": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd",
+                k1: "8d580c263ffde691b4249dfcac43fd10",
+                k2: "f3148d1e737dece3554b889868831659"
+            },
+            "ASTRO_GO_LIVE_EVENT_3": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd",
+                k1: "8ab014de03c31a84a835583c348a5e10",
+                k2: "5ed727c3f28bac59aa3e5914f5ad455c"
+            },
+            "TV1_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd",
+                k1: "912760c409eb5aff3e060422c502f410",
+                k2: "bea2d0f89fb3fbafa1fc9f34ba8734a6"
+            },
+            "TV2_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd",
+                k1: "4f885481fe053e544096532c1dcb9710",
+                k2: "24a9b17859862887f28f63c7c29bcaa5"
+            },
+            "ASTRO_RIA_HD": {
+                url: "https://staging-linearjitp02-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd",
+                k1: "3f726fd5cbbf5944437a4dbfab431b10",
+                k2: "376b009796e4ad50ea8f68d796676692"
+            },
+            "ASTRO_PRIMA_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd",
+                k1: "0b65326aede3edbe81e6fb40317d5310",
+                k2: "8412f444ffbe350cf2ece051f9152e90"
+            },
+            "ASTRO_OASIS_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd",
+                k1: "17d5d62dc61954b82ee016da264abd10",
+                k2: "5f35f815699140e2649d825f0d24028e"
+            },
+            "COLORS_HINDI_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd",
+                k1: "ad3cb242cde3b687e2398cd21eb9bd10",
+                k2: "6ed9b4976a854a289ce62cac957a55d5"
+            },
+            "TVS": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd",
+                k1: "c3e956b38ae993be1494c7cfa17b1110",
+                k2: "55ccaee886b340dd901f4bf8dd9d3a6a"
+            },
+            "AWESOME_TV": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd",
+                k1: "f84fbe826d15755ef91ebcab67c57d10",
+                k2: "6a136b65d2d45699cb1e98506dfa1bee"
+            },
+            "TV_OKEY_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd",
+                k1: "60f202b16407fedd8e369c32af57dd10",
+                k2: "c8475231c09dc1b639886976b6fc7575"
+            },
+            "ASTRO_VAANAVIL_HD": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd",
+                k1: "72499c6ad44cc37d95a9075420911110",
+                k2: "b5416326114a13e90662a4fbaf3c532b"
+            },
+            "SUN_TV_HD": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd",
+                k1: "83076ff2f68d1764b559c432ab49ca10",
+                k2: "ebdf56ba4a3562cc82053a2952975432"
+            },
+            "STAR_VIJAY_HD": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd",
+                k1: "af35608a7d4b13d1158c2ef6d6c1a010",
+                k2: "d01c81050dfab309c6be7e60d03c2d82"
+            },
+            "COLORS_TAMIL_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd",
+                k1: "e46354fb39c28e5956bc946ac2a05010",
+                k2: "511905bf191474b412b4ec117515a79c"
+            },
+            "ZEE_TAMIL_HD": {
+                url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd",
+                k1: "0d4e3e7dac2d58b93bf819a72fe8d510",
+                k2: "667a33f4d5bb3587f2d5209886839eac"
+            },
+            "IQIYI_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd",
+                k1: "7ef7e913ce85a1131b27036069169a10",
+                k2: "77d98ed71db7524c27875a09a975f9e6"
+            },
+            "TVB_CLASSIC_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd",
+                k1: "071448690a0ec9b27eb2c1a7d5e03010",
+                k2: "933ae273b166baa8fb203eef1a7adbdf"
+            },
+            "ASTRO_SENSASI": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd",
+                k1: "34b831a974501d106f6545e9f93de010",
+                k2: "c31ef8e8ac1139b985ac3673002b7014"
+            },
+            "TVB_JADE": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd",
+                k1: "fe1219019a9f36cdef347088e592ca10",
+                k2: "cb9e1a122ed1c6445f7d3fd2162358f1"
+            },
+            "CTI_ASIA_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd",
+                k1: "d626598c2ab452537509dcb8a86db910",
+                k2: "f5a9cadea2372a52c2b91f9c261fe0a4"
+            },
+            "TVB_XING_HE_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd",
+                k1: "e36e0cbdef0677b48dba5c63e8caaf10",
+                k2: "ecfb454b2f3e238c5b5dc196e4f91fb8"
+            },
+            "TVBS_ASIA_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd",
+                k1: "e76a89a1e23f8f7b828f4dbdc2d09a10",
+                k2: "346f0f60cbd7591e1ae72ca589157bb1"
+            },
+            "PHOENIX_CHINESE_CHANNEL_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/400/default_primary.mpd",
+                k1: "517c308ef6419b1767e9ae710c897710",
+                k2: "fd6be1cea9fa23c98f20f1b2abcae276"
+            },
+            "ASTRO_HUA_HEE_DAI_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd",
+                k1: "60507ef0dc9c813d5f8c7b2229412f10",
+                k2: "c8a0f7e69bb31dfd475da26fc6c6003b"
+            },
+            "ONE_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd",
+                k1: "d8fe398c79065173fa9788f226056510",
+                k2: "45e77e6a8ba767b63cacfdb01ef2ac29"
+            },
+            "TVN_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd",
+                k1: "faf4d62bb898de503446c28fb1aa9210",
+                k2: "19e80ecc5d337215c64004cb49c9cb01"
+            },
+            "K-PLUS_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd",
+                k1: "aa48b28bd723f91214887df6ed9fad10",
+                k2: "b5a3a800848120c843ae0fa68c09c261"
+            },
+            "HITS_MOVIES_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd",
+                k1: "ff1febd7018d0dd711601e795e0d6210",
+                k2: "38fbfb3a56e40ff92c9df8acbcba9ef6"
+            },
+            "SHOWCASE_MOVIES": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd",
+                k1: "b8090c8361cc5cc5c1aac0ec2710de10",
+                k2: "ca0d18538845bae2cb4f4a168036f174"
+            },
+            "HBO_FAMILY": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd",
+                k1: "2b9ff7cc1a3dc9fef47cc5773472d510",
+                k2: "7e37588e893ab9252e505bd6dda35beb"
+            },
+            "HBO_HITS": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd",
+                k1: "5d600eb70944d681c26c1f48fbe61f10",
+                k2: "796139ba05a2ab425f978c7fd98b4372"
+            },
+            "ABC_AUSTRALIA_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5075/default_primary.mpd",
+                k1: "6a9fcc2f94258cee0f2108687c42e710",
+                k2: "99bd7c1ff2391244b4e40e08bef1109d"
+            },
+            "BBC_EARTH": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd",
+                k1: "dbf62ff0804bc5b8d523ef009d786310",
+                k2: "bb1bdb27cc5fe1ec637d257999344cc3"
+            },
+            "MOONBUG_KIDS": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd",
+                k1: "e3cb7499710786eb105fab7b52459910",
+                k2: "8ab093adabdc343b8734b7ecf0aea11a"
+            },
+            "AXN_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd",
+                k1: "c24a7811d9ab46b48b746a0e7e269210",
+                k2: "c321afe1689b07d5b7e55bd025c483ce"
+            },
+            "LIFETIME_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd",
+                k1: "8de11e005db5bd0db8228814863cd310",
+                k2: "183b3eafa4c82e68f74c4244d54906b0"
+            },
+            "PRIMETIME": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5049/default_primary.mpd",
+                k1: "f998ad175003b9f6d40fb5c92f19e210",
+                k2: "65372a3148e3a622b4229fd86ea4e160"
+            },
+            "HITS_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd",
+                k1: "1fe92685a75844dc54c9dac124802510",
+                k2: "36cb2063bf5338d18d31657371b15817"
+            },
+            "WARNER_TV_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd",
+                k1: "6093e12639b24cd651ee6b3c13446d10",
+                k2: "f8326f668c7bee309e5302b513e5bdf7"
+            },
+            "PARAMOUNT_NETWORK": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd",
+                k1: "fff5927a2249f094fa3773c390294010",
+                k2: "a5a770d88e4403772f36e2313e8e32d0"
+            },
+            "BBC_LIFESTYLE_HD": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd",
+                k1: "f429292dc744f284355308561577ac10",
+                k2: "b12e1f894129c517dc8845baaeebec8a"
+            },
+            "ASTRO_SUPERSPORT_UHD_1": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd",
+                k1: "22fbef1c1cd725e9397ec16455f08210",
+                k2: "7aea43cd93c24aa9834ecb4984f7fd5a"
+            },
+            "LOVE_NATURE_4K": {
+                url: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/5097/default.mpd",
+                k1: "1afdcaf4198bfd3200584469fc3e5110",
+                k2: "6edc92c49be84ca7a2f327beafbccae6"
+            },
+        };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
