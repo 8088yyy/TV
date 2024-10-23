@@ -38,21 +38,6 @@ http://crystalott.net/BE2ZKMLVXR/I6WSJJXXZ1/2698
 
 
 
-
-#EXTINF:-1 tvg-id="1226" group-title="Kids" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",Nick HD+
-
-#EXTINF:-1 tvg-id="1227" group-title="Kids" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/16x9-1719554242246.jpg",Nick SD
-
-#EXTINF:-1 tvg-id="815" group-title="Kids" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg",Sonic
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids", Disney Channel HD
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/114.png" group-title="Kids",, Disney
@@ -62,15 +47,11 @@ https://tamilultra.tv/api/disney.php
 http://opplextv.cyou:8080/258036/258036/153175
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11479-j9jr9a8o-v1/imageContent-11479-j9jr9a8o-m1.png" group-title="Kids", Hungama
-https://dv8r.short.gy/Hungama.m3u8
+https://tamilultra.tv/master.m3u8?c=HUNGAMA_TAMIL&server=3|referer=https://tamilultra.tv/
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" group-title="Kids", Super Hungama
 http://b1g.ooo:80/Kam/Kam/663361
 
-
-
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240513_062646718481975839071503.png" group-title="Kids", AJK Kids
-http://ptuf.ridsys.in/riptv/live/stream199/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240707_1001225329215954789331277.png" group-title="Kids" , Animax
