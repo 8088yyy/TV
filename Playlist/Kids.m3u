@@ -5,52 +5,75 @@
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194390/640x360_ChuttiTV_194390_61005292-313a-45b4-b6a8-3ac5128a513e.jpg" group-title="Kids", Chutti TV
 https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
 
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Kids", Discovery Kids
+https://github.com/8088yyy/TV/raw/refs/heads/main/Playlist/Discovery/Discovery%20Kids.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/681.png" group-title="Kids", Cartoon Network HD+
+http://tv.cloudcdn.me:80/live.ts?channelId=89828&uid=1384&deviceMac=00:1A:79:00:86:A7
+
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/238.png" group-title="Kids", Cartoon Network
-http://tv.cloudcdn.me/live.ts?channelId=89828&uid=14505&deviceMac=00:1A:79:A7:53:75
+http://opplextv.cyou:8080/518340/238497/380956
+
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/433.png" group-title="Kids", Nick HD+
+https://drmlive.in/jiocinema/1226.m3u8
+
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/138.png" group-title="Kids", Nick SD
+https://drmlive.in/jiocinema/1227.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids" , Nick Junior
+https://drmlive.in/jiocinema/544.m3u8
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/127.png" group-title="Kids", Sonic Nickelodeon
-http://tv.cloudcdn.me/live.ts?channelId=89864&uid=14505&deviceMac=00:1A:79:A7:53:75
-
-#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/138.png" group-title="Kids", Nick
-http://ptuf.ridsys.in/riptv/live/stream212/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11479-j9jr9a8o-v1/imageContent-11479-j9jr9a8o-m1.png" group-title="Kids", Hungama
-https://dv8r.short.gy/Hungama.m3u8
-
-#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Kids", Discovery Kids
-https://vaathala00.github.io/hotstar/live/discovery/api/Discovery_Kids.m3u8
-
-#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/45.png" group-title="Kids", Sony YAY!
-http://crystalott.net/BE2ZKMLVXR/I6WSJJXXZ1/2698
-
-#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/114.png" group-title="Kids",, Disney
-http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/451317.ts
-
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids", Disney Channel HD
-
-#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/144.png" group-title="Kids",, Disney Junior
-http://opplextv.cyou:8080/258036/258036/153175
+https://drmlive.in/jiocinema/815.m3u8
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/239.png" group-title="Kids", Pogo
 http://ptuf.ridsys.in/riptv/live/stream207/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/45.png" group-title="Kids", Sony YAY!
+http://crystalott.net/BE2ZKMLVXR/I6WSJJXXZ1/2698
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="1226" group-title="Kids" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",Nick HD+
+
+#EXTINF:-1 tvg-id="1227" group-title="Kids" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/16x9-1719554242246.jpg",Nick SD
+
+#EXTINF:-1 tvg-id="815" group-title="Kids" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg",Sonic
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids", Disney Channel HD
+
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/114.png" group-title="Kids",, Disney
+https://tamilultra.tv/api/disney.php
+
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/144.png" group-title="Kids",, Disney Junior
+http://opplextv.cyou:8080/258036/258036/153175
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11479-j9jr9a8o-v1/imageContent-11479-j9jr9a8o-m1.png" group-title="Kids", Hungama
+https://dv8r.short.gy/Hungama.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" group-title="Kids", Super Hungama
 http://b1g.ooo:80/Kam/Kam/663361
 
-#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/433.png" group-title="Kids", Nick HD+
-https://live.drmlive-02.workers.dev/jc/1226.m3u8
 
-#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/681.png" group-title="Kids", Cartoon Network HD+
-http://pythonlived.com:8789/play/live.php?mac=00:1a:79:c6:cc:db&stream=430040&extension=ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Arunjunan07
-#KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=905
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bI0wSRiO2LMSc1GgrbB2puhG1ddnYBPtAh55D12-AusxrMDu7Qm-h-CG9JYzbPEMmCTzQJb7vVA=s900" group-title="Kids", ETV Bal Bharat
-https://tplay-mpd.vercel.app/cache/905.mpd
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240513_062646718481975839071503.png" group-title="Kids", AJK Kids
+http://ptuf.ridsys.in/riptv/live/stream199/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240707_1001225329215954789331277.png" group-title="Kids" , Animax
 https://jmp2.uk/sam-INBD13000043W.m3u8
 
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240513_062646718481975839071503.png" group-title="Kids", AJK Kids
-http://ptuf.ridsys.in/riptv/live/stream199/index.m3u8
+
