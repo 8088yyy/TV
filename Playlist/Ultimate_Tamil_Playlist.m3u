@@ -20,9 +20,6 @@ https://glb.bozztv.com/glb/ssh101/tultrabbtamil/index.m3u8
 #EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live - Source 4
 https://live.tamiltool.online/livestream/index.m3u8
 
-#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live - Source 5
-https://stream.vstartv.org:3511/hybrid/play.m3u8
-
 #EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/kV1m6uP.jpeg", BB Telugu 24x7 Live - Source 1
 http://tv.cloudcdn.me/live.ts?channelId=132347&uid=1384&deviceMac=00:1A:79:00:86:A7
 
