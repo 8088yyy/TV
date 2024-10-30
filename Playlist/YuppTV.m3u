@@ -43,3 +43,37 @@ https://edge2-moblive.yuppcdn.net/trans1sd/smil:vatv07.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/YuppTV_logo.svg/2560px-YuppTV_logo.svg.png" group-title="YuppTV" , Ten Cricket
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 
+   SRI LANKA
+
+#EXTINF:-1 tvg-logo="https://tnltv.lk/images/logos/logo/tnltv.png" group-title="YuppTV",TNL TV
+https://edge3-moblive.yuppcdn.net/transsd/smil:tnl12.smil/playlist.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9dHiDNnXWs2WD2kT7x06PBcC8NILQzkzd5uUv5higmbJK1G14Gy2jKW_sh9R6F1fu0Y0fsoYgA=s900" group-title="YuppTV",TV One
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tv111.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7BNxzX2gTLtNlpZZ0J6A83a7yhQ5QmZAbI3Ztlpo_0cKalWhUAXKAIJWsG9zy7joVfNUkyE=s900" group-title="YuppTV",ITN Srilanka
+https://edge4-moblive.yuppcdn.net/transsd/smil:itn43.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://channeleye.lk/wp-content/uploads/2022/05/1-1.png" group-title="YuppTV",Channel Eye
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:nettv15.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://siyathatv.lk/wp-content/themes/siyathatv-vol-008/images/siyathatv-logo.jpg" group-title="YuppTV",Siyatha TV
+https://edge3-moblive.yuppcdn.net/transhd2/smil:siytv08.smil/playlist.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nYHp0N9dLUz8PFZe-LxtCCMYpbWSmenGBl4zY39Ge6SwY=s900" group-title="YuppTV",Swarnawahini
+https://edge4-moblive.yuppcdn.net/transsd/smil:swani06.smil/playlist.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://sirasatv.lk/assets/images/Sirasa_TV_Logo.png" group-title="YuppTV",Sirasa TV
+https://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://www.hirutv.lk/assets/images/logo.png" group-title="YuppTV",Hiru TV
+https://edge4-moblive.yuppcdn.net/transhd2/smil:hitv17.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ZaG0AcUC38WcLMe1_qaWOKwYtMfDsunrwkOpbw2bDjxz6hr8QwxjB3Vv932q-5Ic-pCzqLPN=s900" group-title="YuppTV",TV Derana
+https://edge2-moblive.yuppcdn.net/transhd2/smil:detv04.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn2E7hFLq3iB7jB7GYnOgEvBTSp8qFr--a6A&s" group-title="YuppTV",Rupavahini TV
+https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8?dvr
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VYf3JNQqQGwKio4bqS7UsgA228wr5Q7UNU2fdgNE0N5KaTSUqju2roE67YL9hyYh0jub_LpO=s900" group-title="YuppTV",Charana TV
+https://edge4-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
