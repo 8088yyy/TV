@@ -1,3 +1,5 @@
+//nowme
+
 "KTV_HD": {
                 url: "https://livestream5.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd",
                 k1: "351e547391bb45cbac66d2cb9ec0c294",
@@ -63,7 +65,7 @@
                 k1: "880dc94460af4197bbbf43a176fb3a95",
                 k2: "0beb7012ffd133360889d5d56e20de4d"
             },
-            "GEMINI_TV_HD_DOLBY": {
+"GEMINI_TV_HD_DOLBY": {
                 url: "https://sunnxt.malayalamtvhd.workers.dev/livestream14/6a5c3dbb8b6044f8be835e13a815f40b/GeminiTVHD_IN_index.mpd",
                 k1: "880dc94460af4197bbbf43a176fb3a95",
                 k2: "0beb7012ffd133360889d5d56e20de4d"
@@ -98,7 +100,7 @@
                 k1: "0c37231880034787bce9fd3607aa09ea",
                 k2: "e063bb30351dac572bac24ed43d304b2"
             },
-            "GEMINI_MOVIES_HD": {
+"GEMINI_MOVIES_HD": {
                 url: "https://livestream5.sunnxt.com/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd",
                 k1: "0c37231880034787bce9fd3607aa09ea",
                 k2: "e063bb30351dac572bac24ed43d304b2"
@@ -113,7 +115,7 @@
                 k1: "eae838ccd75d4a1fbff6fd7dd1c97780",
                 k2: "8259ce0c112725a4d2c94d154207425f"
             },
-            "SURYA_TV_HD_DOLBY": {
+"SURYA_TV_HD_DOLBY": {
                 url: "https://sunnxt.malayalamtvhd.workers.dev/livestream15/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd",
                 k1: "eae838ccd75d4a1fbff6fd7dd1c97780",
                 k2: "8259ce0c112725a4d2c94d154207425f"
@@ -148,7 +150,7 @@
                 k1: "91b5f2d0205c4527b7aa3e41f35e1e7f",
                 k2: "66ddb1a017753f966e20442ab2f91f18"
             },
-            "UDAYA_HD_DOLBY": {
+"UDAYA_HD_DOLBY": {
                 url: "https://livestream5.sunnxt.com/3a36700e8a904726b253cf6873bfaf40/UdayaTVHD_IN_index.mpd",
                 k1: "91b5f2d0205c4527b7aa3e41f35e1e7f",
                 k2: "66ddb1a017753f966e20442ab2f91f18"
@@ -188,7 +190,7 @@
                 k1: "5ea90a1f3b1e4a0a9b72c8e0f4a9bf31",
                 k2: "30899fda5ca4dfb5a4535ce10c4d7341"
             },
-            "SUN_MARATHI_AU": {
+"SUN_MARATHI_AU": {
                 url: "https://livestream5.sunnxt.com/2699d3c42a1944d9bb8e919433a349c2/SunMarathiB_AU_index.mpd",
                 k1: "5ea90a1f3b1e4a0a9b72c8e0f4a9bf31",
                 k2: "30899fda5ca4dfb5a4535ce10c4d7341"
