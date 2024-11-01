@@ -122,7 +122,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 #EXTINF:-1 tvg-id="9xm" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/36HEDUo4.png" group-title="Dish TV",9xm
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
-#EXTINF:-1 tvg-id="9xm-jalwa" tvg-logo="" group-title="Dish TV",9xm Jalwa
+#EXTINF:-1 tvg-id="9xm-jalwa" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Dish TV",9xm Jalwa
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/index.m3u8
 
 #EXTINF:-1 tvg-id="sai-leela-tv" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/pCSM9jRA.png" group-title="Dish TV",Sai Leela Tv
