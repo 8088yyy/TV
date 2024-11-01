@@ -1,0 +1,66 @@
+            "ANIMAX": {
+                "url": "https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd",
+                "clearkeys": {
+                    "edf1a715de9748638dd2fad75a419af2": "2f5a3199b26e9b693ae881af7ff864cf"
+                }
+            },
+            "CINEMAX_2": {
+                "url": "https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd",
+                "clearkeys": {
+                    "32bc2ee6869144b88bee3babf202f88e": "50d3b9ec49e1570621d45822923607f7"
+                }
+            },
+            "HALLMARK": {
+                "url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc130gttyz)/master.mpd",
+                "clearkeys": {
+                    "0020c970519e635452e81e2496c919ca": "87114e92d957670e78e6d38113c340c5"
+                }
+            },
+            "HBO_2": {
+                "url": "https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd",
+                "clearkeys": {
+                    "a407479f074d43d798478c1212d95876": "3afb53a2643939cd7128fa7ceded533a"
+                }
+            },
+            "HBO_3": {
+                "url": "https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd",
+                "clearkeys": {
+                    "9c5735afb4fd402580360aed8364469c": "128d55d9ac2b47ad85f86b5d08320179"
+                }
+            },
+            "HBO_FAMILY_2": {
+                "url": "https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd",
+                "clearkeys": {
+                    "363b551913124d6b80074ca295b25129": "a6c6efcab0076d572e5732fb6451d19c"
+                }
+            },
+            "HBO_HITS_2": {
+                "url": "https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd",
+                "clearkeys": {
+                    "473fabdc05ac4d9b94fd34f33f73394f": "1072b1e61206c3859607984f872e549c"
+                }
+            },
+            "HBO_SIGNATURE_2": {
+                "url": "https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd",
+                "clearkeys": {
+                    "90480f571f5d410891d7add7103c1e84": "b64f887d2480bcaea992c2f0826449a9"
+                }
+            },
+            "ROCK_ACTION_2": {
+                "url": "https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd",
+                "clearkeys": {
+                    "2341c2ecd3cf4865881bb0fa1287de8f": "ad45202e64f66ef36b3f60fac93cc47f"
+                }
+            },
+            "ROCK_ENTERTAINMENT_2": {
+                "url": "https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd",
+                "clearkeys": {
+                    "9229814c629b406f8de98d2f23c968a0": "40b9f250455b43b3b2ea6845ab81abca"
+                }
+            },
+            "ETHD": {
+                url: "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/Drmlive.mpd",
+                clearkeys: {
+                   "aa872a5a231d502abc88c17544764eaa":
+                    "176c6f576ad9e9448d252d94aeea8eca"
+                }
