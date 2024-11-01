@@ -1,19 +1,19 @@
-  "KTV_HD": {
+"KTV_HD": {
                 url: "https://livestream5.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd",
                 k1: "351e547391bb45cbac66d2cb9ec0c294",
                 k2: "3bd646753f4903eee3b404646c7819d3"
             },
-            "SUNTV_HD": {
+"SUNTV_HD": {
                 url: "https://livestream5.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd",
                 k1: "3891557f1cb14dedb7545bf52499d748",
                 k2: "fb662f742e5f5e0c61a7c1c66d2b019a"
             },
-            "SUN_HD_DOLBY": {
+"SUN_HD_DOLBY": {
                 url: "https://livestream5.sunnxt.com/803a6a4872a449a193b5846b5d101359/SunTVHD_IN_index.mpd",
                 k1: "3891557f1cb14dedb7545bf52499d748",
                 k2: "fb662f742e5f5e0c61a7c1c66d2b019a"
             },
-            "SUNTV_HD_AU": {
+"SUNTV_HD_AU": {
                 url: "https://livestream5.sunnxt.com/9287b977a5694d3c98c12b79622da462/SunTVHDB_AU_index.mpd",
                 k1: "3891557f1cb14dedb7545bf52499d748",
                 k2: "fb662f742e5f5e0c61a7c1c66d2b019a"
