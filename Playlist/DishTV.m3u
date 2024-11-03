@@ -5,7 +5,6 @@
 x-tvg-url="https://whythishome.github.io/epg/guides/dishtv.in_en.xml.gz" 
 x-tvg-url="https://whythishome.github.io/epg/guides/dishtv.in_hi.xml.gz" 
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1ec6098b5014ac7aae0b37f72d5e85e:c04950f25d8e4107a96e828e7911e53b
 #EXTINF:-1 tvg-id="zee-bihar-jharkhand" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png" group-title="Dish TV",Zee Bihar Jharkhand
