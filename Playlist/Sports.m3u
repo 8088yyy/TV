@@ -1,6 +1,5 @@
 ×××××××××××××× SPORTS ×××××××××××××××××
 
-
    ASTRO
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -143,7 +142,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 
 
-
    SCC
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -191,7 +189,6 @@ https://ssc-extra-3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/
 #EXTINF:-1 group-title="Sports", SSC NEWS
 https://ssc-news-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
 
-
    AMAZON PRIME
    
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -204,7 +201,6 @@ https://aba5sdmaaaaaaaamd2pqhgokntneg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #EXTINF:-1 group-title="Sports", AMAZON CRICKET HINDI
 https://a120aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/cikydktuif/out/v1/c0373ca1f8a441c29bb4dbb193c4a39c/cenc.mpd
 
-
    FANCODE
    
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -212,14 +208,12 @@ https://a120aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/cikydktuif/
 #EXTINF:-1 group-title="Sports", FANCODE
 https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
 
-
    YUPPTV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 group-title="Sports", TEN CRICKET
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
-
 
    PEACOCKTV
 
@@ -263,7 +257,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 #EXTINF:-1 group-title="Sports", NBC USA
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
