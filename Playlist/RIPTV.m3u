@@ -1,7 +1,7 @@
 ×××××××××××××× RIPTV ×××××××××××××××××
 
 #EXTM3U
-group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"
+
 #EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/ssTusie5AhNPSuUQu3gJIi-M1YsJWbLOc-C6yqhVCrCKV2pJK5klWACalrq18_8rUQ4"  tvg-logo="https://media.glassdoor.com/sql/2501884/ridsys-squarelogo-1667282272847.png" group-title="RIPTV",Ridsys HD
 http://ptu.ridsys.in/riptv/live/stream1/index.m3u8
 
