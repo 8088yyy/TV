@@ -7,27 +7,36 @@
 
 
 ============================ BIGG BOSS 24x7 LIVE ============================
+#EXTM3U
+
+   BIGG BOSS TAMIL
 
 #EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live - Source 1
-https://tamilultra.tv/master.m3u8?c=BBTAMIL&server=1|referer=https://tamilultra.tv/
-
+https://fl1002.bozztv.com/ssh101/tultrabbtamil/index.m3u8
 #EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live - Source 2
-http://opplextv.cyou:8080/live/518340/238497/383798.ts
-
-#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live - Source 3
 https://glb.bozztv.com/glb/ssh101/tultrabbtamil/index.m3u8
-
+#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live - Source 3
+http://opplextv.cyou:8080/Asif47/6533/383798
 #EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live - Source 4
+http://tv.cloudcdn.me/live.ts?channelId=132411&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live - Source 5
 https://live.tamiltool.online/livestream/index.m3u8
 
+   BIGG BOSS TELUGU
+
 #EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/kV1m6uP.jpeg", BB Telugu 24x7 Live - Source 1
-http://tv.cloudcdn.me/live.ts?channelId=132347&uid=1384&deviceMac=00:1A:79:00:86:A7
-
+http://opplextv.cyou:8080/Asif47/6533/383800
 #EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/kV1m6uP.jpeg", BB Telugu 24x7 Live - Source 2
-http://opplextv.cyou:8080/live/518340/238497/383800.ts
+http://tv.cloudcdn.me/live.ts?channelId=132347&uid=16068&deviceMac=00:1A:79:ED:10:29
 
-#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/l5uD43t.jpeg", BB Hindi 24x7 Live
-https://prod-ent-live-gm.jiocinema.com/hls/live/2105436/hd_akamai_iosmob_avc_24x7_bbhindi_s18_day01/master.m3u8
+   BIGG BOSS HINDI
+
+#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/l5uD43t.jpeg", BB Hindi 24x7 Live - Source 1
+https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day03/master.m3u8
+#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/l5uD43t.jpeg", BB Hindi 24x7 Live - Source 2
+http://opplextv.cyou:8080/Asif47/6533/356534
+#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/l5uD43t.jpeg", BB Hindi 24x7 Live - Source 3
+http://opplextv.cyou:8080/Asif47/6533/356533
 
 
 
