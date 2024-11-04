@@ -1,0 +1,139 @@
+×××××××××××××× AHA VOD ×××××××××××××××××
+
+#EXTM3U
+#EXT-X-VERSION:3
+
+   TAMIL MOVIE
+   
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI5MGRmNjQtOWIxNC00Y2I1LTkyMGUtN2EwMzYzNWNmYTExXkEyXkFqcGc@._V1_FMjpg_UY4500_.jpg" group-title="Aha - Tamil", Manmadhan (2004)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=714f9d2f10064db2af798e438937df37:067c9cd4b09e621bc62ad7440cc80f04
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/714F9D2F-1006-4DB2-AF79-8E438937DF37/1730110067186-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tPDLlP1TuGq9fnrfW1HdanRjtgZ.jpg" group-title="Aha - Tamil", Thiruda Thirudi (2003)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d3ea8f4cca643b4b5e35b47359a818c:8e1cbb66a5a981eb1bc3d77f579687b4
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/3D3EA8F4-CCA6-43B4-B5E3-5B47359A818C/1730110075816-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d2sal5lpzsf102.cloudfront.net/78575/public/public/system/posters/1435719/standard/Mugavaree-Portrait_1680077838.jpg" group-title="Aha - Tamil", Mugavaree (2000)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddacb364a482428c8722b7b268140740:ed5f4af4722446d170010f9eca408b0d
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/DDACB364-A482-428C-8722-B7B268140740/1730110061184-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/feaPHqzVkDhBotMBkEOMSNKE2D6.jpg" group-title="Aha - Tamil", Mounam Pesiyadhe (2002)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1a487a3f0954b2088c60020044fb102:c318015fc478e33b347fed395a4521f1
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/B1A487A3-F095-4B20-88C6-0020044FB102/1730110069089-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/AHA/MOVIE/657c403ca9540e6b3ede84d8/images/0-2x3.jpg" group-title="Aha - Tamil", Tamizh (2002)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3b35837bd0e4e2d97cb2c9afab2814d:68fa907eb4a9c54dcfc02b67b14ee002
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/B3B35837-BD0E-4E2D-97CB-2C9AFAB2814D/1730110062414-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/35f7a882edc3f243333d7225dfe2b25e6a04cec5e3bda8d14ecdc00d7b231544.jpg" group-title="Aha - Tamil", Aboorva Ragangal (1975)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=784b2f30190e43018c17a7f57fd74857:1640c185a93e92013e59f7558422a398
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/784B2F30-190E-4301-8C17-A7F57FD74857/1730110054409-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE5ZTQ4MjgtYTY5ZS00NDM4LWIyZDUtYWNjYjg4MmZkZDJjXkEyXkFqcGc@._V1_.jpg" group-title="Aha - Tamil", Kadhal Mannan (1998)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11b578d7dc6744459d820800bc9cb07b:7a415f8187ef7c623e33c5a6c9a00efd
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/11B578D7-DC67-4445-9D82-0800BC9CB07B/1730110055003-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ3ZWQ3NGQtYmU2MS00YzkzLWIzNjAtNDA5N2UxYzJhNmYwXkEyXkFqcGc@._V1_.jpg" group-title="Aha - Tamil", Rhythm (2000)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02feef636d3a404690ea2e85757519c8:9f29bf0230c39ffd9eda1cae100fb8f8
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/02FEEF63-6D3A-4046-90EA-2E85757519C8/1730110056870-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ2MTE0MzEtYjg3OS00ZTI3LTkyZDctNjVmZGE2MzQwNjlmXkEyXkFqcGc@._V1_.jpg" group-title="Aha - Tamil", Server Sundaram (1964)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e75e6d889068466e9c6e465bfc52b836:90f18ae13f212a6740f6a02321a71f01
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/E75E6D88-9068-466E-9C6E-465BFC52B836/1649734511986-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY3YTEyMjctN2M3NC00OTA1LThlZmUtNmZmOGE5ZjEyNDBjXkEyXkFqcGc@._V1_.jpg" group-title="Aha - Tamil", Sabhaapathy (2021)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01e41e6fe7134e9698e0cc6ccd19375a:db082f4c58bb1d3eb671a3a315bb3e1b
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/01E41E6F-E713-4E96-98E0-CC6CCD19375A/1653310615081-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/AHA/MOVIE/66d0cefa1257df3dc7d01fe6/images/0-2x3.jpg" group-title="Aha - Tamil", Maya Nizhal (2022)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc3ce10c9f174bfd83af657896d60568:29fa346a3402a35f90c5f4dd996e8aa3
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/FC3CE10C-9F17-4BFD-83AF-657896D60568/1730096506722-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODJlYTEzN2ItYjUzMS00ZDBmLWFkMWEtYjU2NmIxN2QyMWI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Aha - Tamil", Saala (2024)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=103d2ad921264508bcfb0f97e8fd2171:171dd2cd24fc94dfba697e9ff3b48c0c
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/103D2AD9-2126-4508-BCFB-0F97E8FD2171/1730096513166-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hWkoT0LwETeVIDhyGDwsNDJN9D.jpg" group-title="Aha - Tamil", Coffee (2022)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef6b0a5722124dff8d7efb97bb35e20d:275f401b38c24ad85cf7045b0d6fb99f
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/EF6B0A57-2212-4DFF-8D7E-FB97BB35E20D/1730096518883-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0N2NjNmQtMzQ3MC00NTU4LWI4MmUtYmE2OWY1ODZjZDEzXkEyXkFqcGc@._V1_.jpg" group-title="Aha - Tamil", Boat (2024)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e158e01d3cb4cd4be0db0487adcefbc:fb9e4b0743b6fa6a1a50bf619c03b945
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/7E158E01-D3CB-4CD4-BE0D-B0487ADCEFBC/1730096521405-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQ0Y2I5M2QtMmUxOS00ZDg2LWJhM2ItYjczOTQzMDQxOGE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Aha - Tamil", Chennaiyil Vaanam Megamootathudan Kaanapadum (2024)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4c1abe3ed96438c8fc0ab3289babbb5:ffa4e5af71a7902eb6903aca6ec62d25
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/D4C1ABE3-ED96-438C-8FC0-AB3289BABBB5/1730096529626-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJkZTVmYjYtNmY3Yy00MzhjLWE2YjgtOWY3MzFlY2RiMjZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Aha - Tamil", Hit list (2024)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d019feda273d4c53a4260faf97c446e2:7dc0f71a20cbb99a4c75370f6f306cd7
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/D019FEDA-273D-4C53-A426-0FAF97C446E2/1730096487730-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRiMGUyMmMtMjM2OC00YzhjLWJlY2QtNmI2NzgxMmQxMjdhXkEyXkFqcGc@._V1_.jpg" group-title="Aha - Tamil", Haraa (2024)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=824b1d3acd914abc803fbbd101534b98:3328d73448872c71dc8e8a1d684cfde1
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/824B1D3A-CD91-4ABC-803F-BBD101534B98/1730096485783-output_cenc_dash.ism/index.mpd
+
+
+   TELUGU MOVIE
+   
+#EXTINF:-1 tvg-logo="https://www.businessoftollywood.com/wp-content/uploads/2024/04/yevam-movie-first-look.jpg" group-title="Aha - Telugu", Yevam (2024)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfac538291b94ebcb2a83675a38d3e33:3fd4cb7b66788b066602786940e71604
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/CFAC5382-91B9-4EBC-B2A8-3675A38D3E33/1721889462007-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmNiNzliMjgtZTEwMi00OGQ5LWEyOGMtMTFhZmU0YjJkMTg2XkEyXkFqcGc@._V1_.jpg" group-title="Aha - Telugu", Raju Yadav (2024)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40c1a2b31d994cb59c7cb9336c760507:131525bcf95df89dee1afcdda7cb63aa
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/40C1A2B3-1D99-4CB5-9C7C-B9336C760507/1721716721019-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/p5dA5ILsCseOxAE9N4HZIzECwKa.jpg" group-title="Aha - Telugu", Harom Hara (2024)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd3b8a3fccaa4b4e88d9a7369d7bae40:9091f1120bcb6a859a79a86c9d8b9da2
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/BD3B8A3F-CCAA-4B4E-88D9-A7369D7BAE40/1721025431988-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFhYjM0MzAtZDY1MC00YzMyLWJjNmMtNTkwNWM5YmU1MTJhXkEyXkFqcGc@._V1_.jpg" group-title="Aha - Telugu", Dhoomam (2023)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a940c2e8f3914ae39712fa69973e557b:3acb309d0117767e9143c05ac8d08624
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/A940C2E8-F391-4AE3-9712-FA69973E557B/1720594610414-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uPpmBjY3znUqGY8kYwI5xvOrSc0.jpg" group-title="Aha - Telugu", Premalu (2024)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f63fc0c0475a47fc9f76b57017b1753a:7511106ff7345d302d2afb09aaead9ed
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/F63FC0C0-475A-47FC-9F76-B57017B1753A/1712845367021-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVhNzVjYzAtNmEwMC00NzBkLWEwMDktNzA0YTEyZDgxYjFhXkEyXkFqcGc@._V1_.jpg" group-title="Aha - Telugu", Geethanjali Malli Vachindi (2024)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcf0da7613d647f4a95644e0b34d1f09:9a703c497d3b63539e8fc1348e201313
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/BCF0DA76-13D6-47F4-A956-44E0B34D1F09/1716293522044-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODA3NTE0YjMtYmViZi00N2Y4LWI2ZGUtNDg5M2FiZDc1Yzc2XkEyXkFqcGc@._V1_.jpg" group-title="Aha - Telugu", Aham Reboot (2023)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e94d98ce20a489aa8f3126de90e5bd9:da5f433d03154a1a5c49610364c32c97
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/7E94D98C-E20A-489A-A8F3-126DE90E5BD9/1719662795680-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/56adaab0a428772d762896b326a540b1228a20029b2e5c649085b1d4a6bb5a57.jpg" group-title="Aha - Telugu", Project Z (2017)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c01c48948a14a4cbf5e0fb4a5240598:62424796940c957c8d9936f35bc733bb
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/8C01C489-48A1-4A4C-BF5E-0FB4A5240598/1717077804777-output_cenc_dash.ism/index.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmJmNTEwMDMtZDRkMi00MTczLTgwZWEtOTlmNjFmMTI0ZjEyXkEyXkFqcGc@._V1_.jpg" group-title="Aha - Telugu", Love Me if You Dare (2024)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eb413a4219f40b082b3ea213467a1e1:08d7d7ecd3ce639118a1f1a6585834f4
+https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/0EB413A4-219F-40B0-82B3-EA213467A1E1/1718507551091-output_cenc_dash.ism/index.mpd
