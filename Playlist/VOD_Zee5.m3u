@@ -1,0 +1,155 @@
+×××××××××××××× VOD ZEE5 ×××××××××××××××××
+
+#EXTM3U
+
+   TAMIL MOVIE
+   
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ad36f71c49533648fc6fbd5cf0b99eb:524a5bf86e20908f30f9a2553bd8c386
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_293,h_440,c_scale,f_webp,q_auto:eco/resources/0-0-1z5636183/portrait/1920x770f84b524c8c1f48838e6604dd884099151ad1f0838c1e4404af6320cd882c6d8d.jpg" group-title="zee5 - Tamil", Vedaa (2024)
+https://mediacloudfront.zee5.com/drm1/titanfile/dash/MOVIES/V2PRIME/MULTI_AUDIO/4K/SUPER_PREMIUM/ATMOS/VEDAA/VEDAA_4K_09102024_hi_639838555205e5e88060b646c539865b/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_293,h_440,c_scale,f_webp,q_auto:eco/resources/0-0-14037/portrait/maanavamanavigal1920x770.jpg" group-title="zee5 - Tamil", Maanava Manavigal (2008)
+https://zee5vod.akamaized.net/drm1/1080p/movies/MOVIE_PROJECT/TAMIL/26112018/MAANAVA_MAANAVIGAL_MOVIE_TA.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12af0e519d643cc39d3d34acabbba25c:78987d2b67ae16c5bea7a5f4549315b4
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_293,h_440,c_scale,f_webp,q_auto:eco/resources/0-0-1z5542776/portrait/1920x770987a22721fdc4707b360f16fae13cd34d549e19b829d4f069438d577d46f1639.jpg" group-title="zee5 - Tamil", The Spacewalker (2017)
+https://mediacloudfront.zee5.com/drm1/titanfile/dash/MOVIES/MULTI_AUDIO/BOOK_MY_SHOW/SPACE_WALKER/SPACE_WALKER_HD_21032024_hi_587f079d8fadde3300957b0a12438139/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29e36b4ea9233111bae841feed8ab309:a887017aeb89f1caf6cfad43fb1b4a4e
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_293,h_440,c_scale,f_webp,q_auto:eco/resources/0-0-33204/portrait/1920x7702d80a677f77344018de1aee544a1ebc06de1cecda4914edcba121d7d20095255.jpg" group-title="zee5 - Tamil", Uri: The Surgical Strike (2019)
+https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/4K/ATMOS/URI/URI_4K_19072024_hi_c438c537a71c6124d2ba352621c504e2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d101e2bd314b4aa88da1cddd6a3af2f7:bc645abea77eb945ec0e5c637ff26ce8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_293,h_440,c_scale,f_webp,q_auto:eco/resources/0-0-1z5227557/portrait/1920x770d82ef3ed376347bf81ee3b63b067dff5291d04f81aa1490abd5ce47e829f511e.jpg" group-title="zee5 - Tamil", Karthikeya 2 (2022)
+https://mediacf-reg1.zee5.com/drm1/elemental/dash/MOVIES/MULTI_AUDIO_DIFF/4K/ATMOS/KARTHIKEYA_2/KARTHIKEYA_2_4K_14042023_te_4de763ff2914dfe9bba417b6fd281790/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=222df9b1b8204f44be5e33a892696a84:45dcb5b2d4f376b08ccb908daab8ac59
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_293,h_440,c_scale,f_webp,q_auto:eco/resources/0-0-1z575093/portrait/1920x770af0c3eed52fa42509f9e99b0f5d35768d80df9b767904075804ed25cdd4fe385.jpg" group-title="zee5 - Tamil", Mudhal Nee Mudivum Nee (2022)
+https://mediacf-reg1.zee5.com/drm1/elemental/dash/MOVIES/MULTI_AUDIO/4K/DDPLUS/MUDHAL_NEE_MUDIVUM/MUDHAL_NEE_MUDIVUM_4K_15042023_ta_fc2b929cb707ac42376425bd8db3a9ae/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0287f496188e40cca3cb203ad0bba464:56ffcd58aaced61d77b0c9bc9c6c664f
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-1z5117562/portrait/1920x7706a4f6625b33f4bb28da3edeca5a5fc465bdf2350f8f24373945f827a79dcfb5c.jpg" group-title="zee5 - Tamil", Valimai (2022)
+https://zee5vod.akamaized.net/drm1/elemental/dash/Movies/4K/ATMOS/valimaitamil/valimaitamil_v2_Rev1_ta_95cbc890cccab64fa56986abfaaba4ac/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-arumugam/portrait/00arumugamcover.jpg" group-title="zee5 - Tamil", Arumugam (2009)
+https://mediacloudfront.zee5.com/drm/PRIORITY1080/TAMIL_MOVIES/Aarumugam_TAMIL_MOVIE.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-224023/portrait/1920x770934187925.jpg" group-title="zee5 - Tamil", Konchem Ishtam Konchem Kashtam (2009)
+https://mediacf-reg1.zee5.com/drm1/1080p/movies/MOVIE_PROJECT/TAMIL/18012019/KONCHAM_ISHTAM_KONCHAM_KASHTAM_KONJAISHTAMKONJAMKASTAM_MOVIE_ta.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d340504a6bd488db600a393230d85bd:8e932537f92c52e3c0704ae95d6335e8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-1z5145092/portrait/1920x7705c9f3df537fe43cba6b0eb94f2a78708.jpg" group-title="zee5 - Tamil", RRR (2022)
+https://mediacloudfront.zee5.com/drm1/elemental/dash/Movies/4K/ATMOS/PREMIUM_BITRATE/RRR_TELUGU/RRR_4K_15072022_Rev1RTR_te_b4d6de63788f00b8642156fa84c1d9ae/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-13700/portrait/muratuthambi1920x770.jpg" group-title="zee5 - Tamil", Murattu Thambi (2009)
+https://mediacf-reg1.zee5.com/drm1/1080p/movies/MOVIE_PROJECT/TAMIL/21112018/MURATU_THAMBI_MOVIE_ta.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-11843/portrait/mrperfecttamilmovie1920x.jpg" group-title="zee5 - Tamil", Mr. Perfect (2011)
+https://zee5vod.akamaized.net/drm1/1080p/movies/MOVIE_PROJECT/TAMIL/14112018/MR_PERFECT_MOVIE_ta.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-uttamavillain/portrait/1920x770d5a5adcca54e4074be03398e015a83e8.jpg" group-title="zee5 - Tamil", Uttama Villain (2015)
+https://mediacloudfront.zee5.com/drm/PRIORITY1080/TAMIL_MOVIES/UTTHAMA_VILLAN_Tamil_Movie_HD.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-2735/portrait/002735cover.jpg" group-title="zee5 - Tamil", Pattatthu Yaanai (2013)
+https://mediacf-reg1.zee5.com/drm/True-HD-1080p/TAMIL_MOVIES/Pattathu_Yaanai.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-ishtam/portrait/ishatam1920x770f26567d0ebba46b6b581993e99bc935a.jpg" group-title="zee5 - Tamil", Ishtam (2001)
+https://mediacf-reg1.zee5.com/drm/PRIORITY1080/TAMIL_MOVIES/Ishatam_Tamil_Movie.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-movie_501321075/portrait/00movie501321075cover.jpg" group-title="zee5 - Tamil", Kathukkutty (2015)
+https://mediacf-reg1.zee5.com/drm/1080p/movies/TAMIL_MOVIES/KATHU_KUTTY.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-kazhugu/portrait/1920x7701675799261.jpg" group-title="zee5 - Tamil", Kazhugu (2004)
+https://mediacf-reg1.zee5.com/drm/PRIORITY1080/TAMIL_MOVIES/Kazhugu_Tamil_Movie.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-2746/portrait/1920x7701312971309c1ab5776bb2a4fd9aab1006e820d0814.jpg" group-title="zee5 - Tamil", Iru Mugan (2016)
+https://mediacf-reg1.zee5.com/drm/True-HD-1080p/TAMIL_MOVIES/Irumugan.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_293,h_440,c_scale,f_webp,q_auto:eco/resources/0-0-47702/portrait/0047702cover470341912470341c48660211e644838a979c080c3a91fa0.jpg" group-title="zee5 - Tamil", En Peru Surya En Veedu India (2018)
+https://mediacf-reg1.zee5.com/drm1/1080p/movies/MOVIE_PROJECT/MOVIES/TAMIL/En_Per_Surya_En_Veedu_MOVIE_ta_19e9e7cb.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_293,h_440,c_scale,f_webp,q_auto:eco/resources/0-0-2736/portrait/idhukadhirvelankaadhal1920.jpg" group-title="zee5 - Tamil", Idhu Kadhirvelan Kaadhal (2014)
+https://mediacloudfront.zee5.com/drm/PRIORITY1080/TAMIL_MOVIES/Idhu_Kathirvelan_Kadhal_Tamil_Movie_HD.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_293,h_440,c_scale,f_webp,q_auto:eco/resources/0-0-7689/portrait/1920x7704155ea382f384e40a83d05b9094dd23a.jpg" group-title="zee5 - Tamil", Pyaar Prema Kaadhal (2018)
+https://mediacf-reg1.zee5.com/drm1/PRIORITY1080/TAMIL_MOVIES/Pyar_Prema_Kadhal_Movie_ta.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_293,h_440,c_scale,f_webp,q_auto:eco/resources/0-0-2738/portrait/1920x7701802449541.jpg" group-title="zee5 - Tamil", Rajini Murugan (2016)
+https://zee5vod.akamaized.net/drm1/PRIORITY1080/TAMIL_MOVIES/RAJINI_MURUGAN_FULL_MOVIE.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_293,h_440,c_scale,f_webp,q_auto:eco/resources/0-0-7354/portrait/007354incover.jpg" group-title="zee5 - Tamil", Lakshmi (2018)
+https://zee5vod.akamaized.net/drm/PRIORITY1080/TAMIL_MOVIES/LAKSHMI_TAMIL_MOVIES_ta.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_293,h_440,c_scale,f_webp,q_auto:eco/resources/0-0-dora/portrait/1920x770bf03b5661671480f9d7b7b68207b4324bd86020c6e214f11846fc0191162b538.jpg" group-title="zee5 - Tamil", Dora (2017)
+https://mediacf-reg1.zee5.com/drm/PRIORITY1080/TAMIL_MOVIES/DORA_TAMIL_MOVIE.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_293,h_440,c_scale,f_webp,q_auto:eco/resources/0-0-16099/portrait/1920x770605d4b8c19924383833b8c59c4c29380.jpg" group-title="zee5 - Tamil", Kappal (2014)
+https://mediacloudfront.zee5.com/drm1/PRIORITY1080/TAMIL_MOVIES/KAPPAL_TAMIL_MOVIE_ta.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-movie_444155516/portrait/nagarajacholanma539176280.jpg" group-title="zee5 - Tamil", Nagaraja Cholan MA, MLA (2013)
+https://mediacf-reg1.zee5.com/drm/True-HD-1080p/TAMIL_MOVIES/Nagarajan_Chozhan_M_A_M_L_A_Tamil_Moive.mp4/manifest.mpd
+
+   TELUGU MOVIE
+   
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-preminchanuninne/portrait/preminchanuninne1920x770.jpg" group-title="zee5 - Telugu", Preminchanu Ninne (2004)
+https://mediacf-reg1.zee5.com/drm1/1080p/movies/MOVIE_PROJECT/TELUGU/12122018/PREMINCHEMANASU_MOVIE_te.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94e37f40406d4add8f2d8bb86ae364f5:e117db6671cd6bf7efeb617bce8d6459
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-59341/portrait/1920x770f89718428c944a9fbb323463f44ae5d2e2f722dc615741d48fa9f00d8b8de8e8.jpg" group-title="zee5 - Telugu", Jersey (2019)
+https://zee5vod.akamaized.net/drm1/elemental/dash/Movies/4K/DDPLUS/JERSY_TELUGU/Jersey_4K_Rev1_te_f69579e8ec8ba4d38f45a3089fe0c830/manifest.mpd
+
+   HINDI MOVIE
+   
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd7b636f9fea4a8198ed3ace902872ed:af2faa69ab698351432af23789092263
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_avif,q_auto:eco/resources/0-0-1z5156101/portrait/1920x7702f5c1d7a0eee45bdbdd6f473c9f51fe8.jpg" group-title="zee5 - Hindi", Radhe Shyam (2022)
+https://zee5vod.akamaized.net/drm1/elemental/dash/Movies/4K/DDPLUS/RADHE_SHYAM/radhe_shyam_4k_Rev1_hi_177f8de5df41c73a00d44a3de742d058/manifest.mpd
+
