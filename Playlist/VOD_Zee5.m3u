@@ -139,6 +139,56 @@ https://mediacf-reg1.zee5.com/drm/True-HD-1080p/TAMIL_MOVIES/Nagarajan_Chozhan_M
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-0-1z5351464/portrait/1920x770d1a8a883bd7a4f1daf9265f6d63888e1.jpg" group-title="zee5 - Tamil", Viduthalai Part-1 (2023)
 https://zee5vod.akamaized.net/drm1/elemental/dash/MOVIES/MULTI_AUDIO_DIFF/4K/ATMOS/VIDUTHALAI_PART1_THEATRICAL/VIDUTHALAI_PART1_THEATRICAL_VERSION_4K_21072023_ta_e3c41ee8974293e46b7b3d687cda5354/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-0-47701/portrait/billapandiposter21920x77.jpg" group-title="zee5 - Tamil", Billa Pandi (2018)
+https://mediacloudfront.zee5.com/drm1/1080p/movies/MOVIE_PROJECT/MOVIES/TAMIL/BILLA_PANDI_MOVIE_ta_2f039284.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-0-movie_965763371/portrait/mohinitamil1920x770.jpg" group-title="zee5 - Tamil", Mohini (2018)
+https://mediacf-reg1.zee5.com/drm1/PRIORITY1080/TAMIL_MOVIES/MOHINI_TAMIL_MOVIE_ta.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-0-8117/portrait/thiruttupayale21920x77034.jpg" group-title="zee5 - Tamil", Thiruttu Payale 2 (2017)
+https://mediacloudfront.zee5.com/drm1/PRIORITY1080/TAMIL_MOVIES/THIRUTTU_PAYALE_2_TAMIL_MOVIE_ta.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-0-movie_1750112788/portrait/1920x770368580717.jpg" group-title="zee5 - Tamil", Diya (2018)
+https://zee5vod.akamaized.net/drm/PRIORITY1080/TAMIL_MOVIES/DIYA_Tamil_Movie.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-0-15595/portrait/8thottakkal1920x770.jpg" group-title="zee5 - Tamil", 8 Thottakkal (2017)
+https://mediacf-reg1.zee5.com/drm1/PRIORITY1080/TAMIL_MOVIES/8_THOTTAKAL_Tamil_Movie_ta.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-0-42002/portrait/boomerang1920x77045554a1b432c7ac44270acea8ee464f10726.jpg" group-title="zee5 - Tamil", Boomerang (2019)
+https://mediacf-reg1.zee5.com/drm1/1080p/movies/MOVIE_PROJECT/MOVIES/TAMIL/BOOMERANG_MOVIE_ta_990a6561.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb914881d23746c6b5d0f664235f2d48:132a946332c5c6c1f79ee0a7fb764d9b
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-0-ivanthanthiran/portrait/1920x7703b276398d56c497fb25bd59917514a32.jpg" group-title="zee5 - Tamil", Ivan Thanthiran (2017)
+https://mediacloudfront.zee5.com/drm/PRIORITY1080/TAMIL_MOVIES/IVAN_THANTHIRAN_TAMIL_MOVIE_ta.mp4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=846f550963944b1293df638db7d340ac:a54118d99ff56b95360d230bcfcffb5e
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-0-1z519672/portrait/1920x770f1beb00f4e7b45d3bcd1a87d12474c35.jpg" group-title="zee5 - Tamil", Vinodhaya Sitham (2021)
+https://mediacloudfront.zee5.com/drm1/elemental/dash/MOVIES/MULTI_AUDIO/4K/VINODHAYA_SHITAM/VINODHAYA_CHITHAM_4K_13042023_ta_873faa69ac9beff429a542e040cc6668/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcfb4c38769534409c5cec85c2e1c293:acc06f534acc747cbe225397a0403ce3
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-0-7356/portrait/1920x770122043412204342cf65ae6ecc34164a55e2440a1bd0cab.jpg" group-title="zee5 - Tamil", Irumbu Thirai (2018)
+https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/4K/SUPER_PREMIUM/DDPLUS/IRUMBU_THIRAI/IRUMBU_THIRAI_4K_24092024_ta_159d511d39af3ce98803455cbc3d7999/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccf6dc6c709f4007ac7af58ed83968d6:8d0b5aaed7496e438613880c6523b601
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-0-1z5376008/portrait/1920x770bcf0e0cf3ee44a2893549a8de7cb523cb6fdc8ed22154667bebeeabeb94e2dd9.jpg" group-title="zee5 - Tamil", Tamilarasan (2023)
+https://mediacf-reg1.zee5.com/drm1/elemental/dash/MOVIES/V2PRIME/Tamilarasan_Tamil_Movie_With_CBFC_16062023_ta_6b1f548ce9c0aa3be4f2da86c77b601b/manifest.mpd
+
    TELUGU MOVIE
    
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -157,4 +207,3 @@ https://zee5vod.akamaized.net/drm1/elemental/dash/Movies/4K/DDPLUS/JERSY_TELUGU/
 #KODIPROP:inputstream.adaptive.license_key=fd7b636f9fea4a8198ed3ace902872ed:af2faa69ab698351432af23789092263
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_avif,q_auto:eco/resources/0-0-1z5156101/portrait/1920x7702f5c1d7a0eee45bdbdd6f473c9f51fe8.jpg" group-title="zee5 - Hindi", Radhe Shyam (2022)
 https://zee5vod.akamaized.net/drm1/elemental/dash/Movies/4K/DDPLUS/RADHE_SHYAM/radhe_shyam_4k_Rev1_hi_177f8de5df41c73a00d44a3de742d058/manifest.mpd
-
