@@ -134,6 +134,11 @@ https://mediacloudfront.zee5.com/drm1/PRIORITY1080/TAMIL_MOVIES/KAPPAL_TAMIL_MOV
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-movie_444155516/portrait/nagarajacholanma539176280.jpg" group-title="zee5 - Tamil", Nagaraja Cholan MA, MLA (2013)
 https://mediacf-reg1.zee5.com/drm/True-HD-1080p/TAMIL_MOVIES/Nagarajan_Chozhan_M_A_M_L_A_Tamil_Moive.mp4/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b3364939763425bacdc4455a61b8f23:324999e32c223e2276229b4d9c01ec60
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-0-1z5351464/portrait/1920x770d1a8a883bd7a4f1daf9265f6d63888e1.jpg" group-title="zee5 - Tamil", Viduthalai Part-1 (2023)
+https://zee5vod.akamaized.net/drm1/elemental/dash/MOVIES/MULTI_AUDIO_DIFF/4K/ATMOS/VIDUTHALAI_PART1_THEATRICAL/VIDUTHALAI_PART1_THEATRICAL_VERSION_4K_21072023_ta_e3c41ee8974293e46b7b3d687cda5354/manifest.mpd
+
    TELUGU MOVIE
    
 #KODIPROP:inputstream.adaptive.license_type=clearkey
