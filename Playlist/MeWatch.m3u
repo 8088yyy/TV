@@ -1,6 +1,8 @@
 ×××××××××××××× MEWATCH ×××××××××××××××××
 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/singapore.xml"
+#EXTM3U 
+x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/singapore.xml"
+x-tvg-url="https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml"
 
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='5639677'&EntityType='Item'&EntityId='229204'&Width=237&Height=237&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'" group-title="MeWatch", Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
