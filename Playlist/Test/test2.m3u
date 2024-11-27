@@ -1,5 +1,5 @@
-#EXTM3U
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://tamilultratv.co.in/
-#EXTINF:-1 tvg-id="" tvg-name="Tamil Ultra TV" tvg-logo="" group-title="Tamil Channels",Tamil Ultra TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="MOVIES_NOW" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00debd2ee1bebbf9c51/images/503.webp" group-title="Airtel | Movies",Movies Now
+#EXTVLCOPT:http-user-agent=https://tamilultratv.co.in/
 https://jio.tamilultratv.com/app/ts_live_1081.m3u8
