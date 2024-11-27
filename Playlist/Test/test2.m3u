@@ -1,6 +1,4 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=referer
-#KODIPROP:inputstream.adaptive.license_key=https://tamilultratv.co.in/
 #EXTINF:-1 tvg-id="" tvg-name="Tamil Ultra TV" tvg-logo="" group-title="Tamil Channels",Tamil Ultra TV
-https://jio.tamilultratv.com/app/ts_live_1081.m3u8
+https://jio.tamilultratv.com/app/ts_live_1081.m3u8|referer=https://tamilultratv.co.in/
