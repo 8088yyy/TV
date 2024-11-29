@@ -1,5 +1,5 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://jio-widevine.developed-by-doctor-strange.workers.dev/?id=684
+#KODIPROP:inputstream.adaptive.license_key=fa875e7aa00e5f2186ba07232a318f7b:1edd25af2b8fa6a6b18e5630285ae234
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.7
 #EXTINF:-1 tvg-id="684" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="Movies",Gemini Life
-https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Life_MOB/WDVLive/index.mpd?minrate=80000&maxrate=2024000&__hdnea__=st=1732840943~exp=1732844543~acl=/bpk-tv/Gemini_Life_MOB/WDVLive/*~hmac=0501009124f059352be299f6436c86a8f5c4cc7b1d9e0b61e6e698342b94a1b9
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jothi_TV_MOB/WDVLive/index.mpd?minrate=80000&maxrate=2024000&__hdnea__=st=1732840943~exp=1732844543~acl=/bpk-tv/Jothi_TV_MOB/WDVLive/*~hmac=0501009124f059352be299f6436c86a8f5c4cc7b1d9e0b61e6e698342b94a1b9
