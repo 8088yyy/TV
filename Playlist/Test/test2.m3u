@@ -1,5 +1,5 @@
-#EXTM3U
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://tamilultratv.co.in/
-#EXTINF:-1 tvg-id="MOVIES_NOW" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00debd2ee1bebbf9c51/images/503.webp" group-title="Airtel | Movies",Movies Now
-https://jio.tamilultratv.com/app/ts_live_1081.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jio-widevine.developed-by-doctor-strange.workers.dev/?id=684
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.7
+#EXTINF:-1 tvg-id="684" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="Movies",Gemini Life
+https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Life_MOB/WDVLive/index.mpd?minrate=80000&maxrate=2024000&__hdnea__=st=1732840943~exp=1732844543~acl=/bpk-tv/Gemini_Life_MOB/WDVLive/*~hmac=0501009124f059352be299f6436c86a8f5c4cc7b1d9e0b61e6e698342b94a1b9
