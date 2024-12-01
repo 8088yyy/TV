@@ -1,32 +1,6 @@
 #EXTM3U
-#EXTGenre: Movies
-
-#EXTINF:-1 tvg-id="1" tvg-name="Fabricated City (2017)" tvg-logo="https://api.vrott.tv/uploads/compressedImages/8d966d11ab69a6e1fd02784b9fd16f29-300x400.png" group-title="VROTT",Fabricated City (2017)
+#EXTINF:-1 tvg-id="1" tvg-name="Fabricated City (2017)" tvg-logo="https://api.vrott.tv/uploads/compressedImages/8d966d11ab69a6e1fd02784b9fd16f29-300x400.png" group-title="VOD|VROTT",Fabricated City (2017)
 https://vrott-production-4.b-cdn.net/05d70df1-7bbf-46d8-91bc-1e089c75a3ba/AppleHLS1/42023374-6888-4a4c-84bc-f211415c1cdc.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="Breaking Through (2015)" tvg-logo="https://api.vrott.tv/uploads/compressedImages/766d1e5bdd538c7ea917d1959cf1b7df-300x400.png" group-title="VROTT",Breaking Through (2015)
+#EXTINF:-1 tvg-id="2" tvg-name="Breaking Through (2015)" tvg-logo="https://api.vrott.tv/uploads/compressedImages/766d1e5bdd538c7ea917d1959cf1b7df-300x400.png" group-title="VOD|VROTT",Breaking Through (2015)
 https://vrott-production-4.b-cdn.net/e4c7892d-4ffe-4fda-a62b-9d9d1f2c5804/AppleHLS1/842e6fa8-1507-46c1-a2b8-03b7f16a9691.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-name="The Spy Undercover Operation (2017)" tvg-logo="https://api.vrott.tv/uploads/compressedImages/3a9edd2a232be52c02dceb98b5b7116a-300x400.png" group-title="VROTT",The Spy Undercover Operation (2017)
-https://vrott-production-4.b-cdn.net/82d4085e-8ff1-4f52-a992-2373be947119/AppleHLS1/1cb30d1f-711d-426f-91ec-dc72e1e1f68b.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-name="The Master (2015)" tvg-logo="https://api.vrott.tv/uploads/compressedImages/eed3e240fcea7f0273985071f5b3d332-300x400.png" group-title="VROTT",The Master (2015)
-https://vrott-production-4.b-cdn.net/c7a0607f-b0e3-47d9-bf51-20d0fc171bca/AppleHLS1/d5541806-8a43-445f-b966-59d6141b5831.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-name="Reset (2021)" tvg-logo="https://api.vrott.tv/uploads/compressedImages/bce86414584ed3b83b010497da821021-300x400.png" group-title="VROTT",Reset (2021)
-https://vrott-production-4.b-cdn.net/b341e3cd-654f-42b0-a9ba-15f276776d7b/AppleHLS1/633cdbee-108d-4e52-bf71-955c4ab20473.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="The Power (2021)" tvg-logo="https://api.vrott.tv/uploads/compressedImages/d838e5e5bd26476d0cfca6fe5130d916-300x400.png" group-title="VROTT",The Power (2021)
-https://vrott-production-4.b-cdn.net/44b46cdf-8629-4cf7-a3b9-c4c36b756ff6/AppleHLS1/8030c787-78f0-4916-bd98-1d66049c82ff.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-name="Monsters At Large (2018)" tvg-logo="https://api.vrott.tv/uploads/compressedImages/2421e772c983344e7d6549b867acd8f2-300x400.jpg" group-title="VROTT",Monsters At Large (2018)
-https://vrott-production-4.b-cdn.net/060d4451-9bc7-410d-9346-f0541c0b6851/AppleHLS1/9f76cbfd-378a-4912-8333-9ff8e1472753.m3u8
-
-#EXTINF:-1 tvg-id="8" tvg-name="Shark Bait (2022)" tvg-logo="https://api.vrott.tv/uploads/compressedImages/46dacdcf946647c1c8ea8d9c56648d03-300x400.png" group-title="VROTT",Shark Bait (2022)
-https://vrott-production-4.b-cdn.net/029df473-dced-4846-8677-f03813bf7da8/AppleHLS1/15b3bda3-3122-415e-b3b5-5ccd05acaf12.m3u8
-
-#EXTINF:-1 tvg-id="9" tvg-name="T.I.M. (2023)" tvg-logo="https://api.vrott.tv/uploads/compressedImages/81397c00a7173d96109eec46c4552490-300x400.png" group-title="VROTT",T.I.M. (2023)
-https://vrott-production-4.b-cdn.net/9010824b-9440-4652-b9dd-a63404252d98/AppleHLS1/13eea4ba-c75d-44b3-a863-e8f919406680.m3u8
-
-#EXTINF:-1 tvg-id="42" tvg-name="Looking Glass (2018)" tvg-logo="https://api.vrott.tv/uploads/compressedImages/42fe9c4d105f1205d7042f37ce7a4006-300x400.png" group-title="VROTT",Looking Glass (2018)
-https://vrott-production-4.b-cdn.net/790f9de9-29a7-4f0b-8170-1170f9bac83c/AppleHLS1/c965760e-7362-4096-b8f0-d6e19787d998.m3u8
