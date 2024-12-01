@@ -1,7 +1,7 @@
 ×××××××××××××× VOD VROTT ×××××××××××××××××
 
 #EXTM3U 
-
+#EXTGenre: Movies
    TAMIL DUBBED MOVIES
 
 #EXTINF:-1 tvg-logo="https://api.vrott.tv/uploads/compressedImages/8d966d11ab69a6e1fd02784b9fd16f29-300x400.png" group-title="VROTT", Fabricated City (2017)
