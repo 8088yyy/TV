@@ -1,8 +1,14 @@
 #EXTM3U
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
+
+# Video Stream
 #EXT-X-STREAM-INF:BANDWIDTH=2141700,AVERAGE-BANDWIDTH=1832328,RESOLUTION=960x540,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
 https://play.yuvraj49.xyz/hungama/index.m3u8
+
+# I-Frame Stream
 #EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=768000,CODECS="avc1.64001F",RESOLUTION=960x540,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_27.m3u8"
+
+# Audio Tracks
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Tamil",LANGUAGE="tam",DEFAULT=YES,AUTOSELECT=YES,URI="https://play.yuvraj49.xyz/hungama/tracks-a2/mono.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Hindi",LANGUAGE="hin",DEFAULT=NO,AUTOSELECT=NO,URI="https://play.yuvraj49.xyz/hungama/tracks-a1/mono.m3u8"
