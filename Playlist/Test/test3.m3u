@@ -2,6 +2,8 @@
 #EXT-X-VERSION:3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L00lFdf.png" group-title="RIPTV", Hungama
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Track 1",DEFAULT=NO,AUTOSELECT=YES,URI="https://play.yuvraj49.xyz/hungama/tracks-a1/track1.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Mono",DEFAULT=YES,AUTOSELECT=YES,URI="https://play.yuvraj49.xyz/hungama/tracks-a2/mono.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Track 3",DEFAULT=NO,AUTOSELECT=YES,URI="https://play.yuvraj49.xyz/hungama/tracks-a3/track3.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720,AUDIO="audio"
 https://play.yuvraj49.xyz/hungama/index.m3u8
