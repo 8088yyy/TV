@@ -113,10 +113,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/708.png" group-title="Entertainment", Jaya TV HD
-http://mohitweb.zapto.org:7878/live/419.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=419
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/439.png" group-title="Entertainment", Raj TV
-http://mohitweb.zapto.org:7878/live/707.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=707
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/611.png" group-title="Entertainment", Sirippoli
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
@@ -134,16 +134,16 @@ https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=43407&uid=14505&deviceMac=00:1A:79:A7:53:75
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/272.png" group-title="Entertainment", Polimer TV
-http://mohitweb.zapto.org:7878/live/705.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=705
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/499.png" group-title="Entertainment", Vasanth TV
-http://mohitweb.zapto.org:7878/live/727.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=727
 
 #EXTINF:-1  tvg-logo="https://tatalogo.pages.dev/659.png" group-title="Entertainment", Vendhar TV
-http://mohitweb.zapto.org:7878/live/857.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=857
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/421.png" group-title="Entertainment", Peppers TV
-http://mohitweb.zapto.org:7878/live/796.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=796
 
 #EXTINF:-1  tvg-logo="https://tatalogo.pages.dev/392.png" group-title="Entertainment", Makkal TV
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
@@ -159,16 +159,16 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/in
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/04/20240408_122523124639342017653359.png"  group-title="Entertainment",MK TV
-http://mohitweb.zapto.org:7878/live/847.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=847
 
 #EXTINF:-1  tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/05/20240521_1223086548629137627592678.png"  group-title="Entertainment",MK Six
-http://mohitweb.zapto.org:7878/live/1647.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=1647
 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0159072608720790962587693.png" group-title="Entertainment",Moon TV
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/Xt40dT5/Puthuyugam.png",Puthu Yugam
-http://mohitweb.zapto.org:7878/live/824.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=824
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0HvxrQ/vikatan.png" group-title="Entertainment",Vikatan TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
@@ -249,10 +249,10 @@ https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Movies",  J Movies
-http://mohitweb.zapto.org:7878/live/417.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=417
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/426.png" group-title="Movies", Raj Digital Plus
-http://mohitweb.zapto.org:7878/live/683.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=683
 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1518425091386983341611136.png" group-title="Movies", Rasi Movies
 http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
@@ -284,22 +284,22 @@ https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/562.png" group-title="Movies", Movies Now HD
-http://mohitweb.zapto.org:7878/live/151.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=151
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/210.png" group-title="Movies", MN+ HD
-http://mohitweb.zapto.org:7878/live/477.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=477
 
 #EXTINF:-1 tvg-name="Star Movies HD" tvg-chno="45" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12086-j9od8wxc-v1/imageContent-12086-j9od8wxc-m1.png" group-title="Movies", Star Movies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=14505&deviceMac=00:1A:79:A7:53:75
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/599.png" group-title="Movies", MNX HD
-http://mohitweb.zapto.org:7878/live/877.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=877
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12193-j9q33dpc-v2/imageContent-12193-j9q33dpc-m3.png" group-title="Movies", Star Movies Select HD
 http://opplextv.cyou:8080/258036/258036/66315
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/174.png" group-title="Movies", Romedy Now
-http://mohitweb.zapto.org:7878/live/1401.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=1401
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
@@ -390,7 +390,7 @@ https://tp.yg048.workers.dev/ch/463.m3u8
 http://b1g.ooo:80/Kam/Kam/662136
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/223.png" group-title="Sports", DD Sports
-http://mohitweb.zapto.org:7878/live/204.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=204
 
 
    -EXTRA SPORTS-
@@ -684,16 +684,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default.mpd
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/199.png" group-title="Music", Jaya Max
-http://mohitweb.zapto.org:7878/live/420.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=420
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/425.png" group-title="Music", Raj Musix
-http://mohitweb.zapto.org:7878/live/748.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=748
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Music",Tunes 6
 https://dtv.livebox.co.in/Tunes6musichls/Live.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/MK_Music.png" group-title="Music",MK Tunes
-http://mohitweb.zapto.org:7878/live/845.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=845
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/400.png" group-title="Music", Mega Musiq
 #EXTVLCOPT:http-user-agent=yuvi bhai
@@ -735,7 +735,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/539.png" group-title="Music", VH1 HD
-http://mohitweb.zapto.org:7878/live/1320.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=1320
 
 
 ================================KIDS================================
@@ -746,10 +746,10 @@ http://mohitweb.zapto.org:7878/live/1320.m3u8
 https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/681.png" group-title="Kids", Cartoon Network HD+
-http://mohitweb.zapto.org:7878/live/1081.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=1081
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/238.png" group-title="Kids", Cartoon Network
-http://mohitweb.zapto.org:7878/live/817.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=817
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/127.png" group-title="Kids", Sonic Nickelodeon
 https://live.drmlive-02.workers.dev/jc/815.m3u8
@@ -781,7 +781,7 @@ https://tp.yg048.workers.dev/ch/114.m3u8
 https://tp.yg048.workers.dev/ch/144.m3u8
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/239.png" group-title="Kids", Pogo Tamil
-http://mohitweb.zapto.org:7878/live/542.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=542
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" group-title="Kids", Super Hungama
 #EXTVLCOPT:http-user-agent=yuvi bhai
@@ -794,13 +794,13 @@ https://jmp2.uk/sam-INBD13000043W.m3u8
 ================================INFOTAINMENT================================
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/616.png" group-title="Infotainment", History TV18 HD Tamil
-http://mohitweb.zapto.org:7878/live/579.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=579
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/444.png" group-title="Infotainment", Travelxp Tamil
-http://mohitweb.zapto.org:7878/live/814.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=814
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/99.png" group-title="Infotainment", D Tamil
-http://mohitweb.zapto.org:7878/live/569.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=569
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/219.png" group-title="Infotainment", Discovery Channel
 https://8088yyydplus.vercel.app/Api/DiscoveryChannel.m3u8
@@ -830,7 +830,7 @@ https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 https://8088yyydplus.vercel.app/Api/TLC.m3u8
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/136.png" group-title="Infotainment", GOOD TiMES
-http://mohitweb.zapto.org:7878/live/560.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=560
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/117.png" group-title="Infotainment", Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
@@ -853,55 +853,55 @@ https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_inde
 https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/524.png" group-title="News", Thanthi TV
-http://mohitweb.zapto.org:7878/live/830.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=830
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/220.png" group-title="News", Puthiya Thalaimurai
-http://mohitweb.zapto.org:7878/live/677.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=677
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/968.png" group-title="News", News Tamil 24x7
-http://mohitweb.zapto.org:7878/live/1954.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=1954
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/509.png" group-title="News", Polimer News
-http://mohitweb.zapto.org:7878/live/636.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=636
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/702.png" group-title="News", News J
-http://mohitweb.zapto.org:7878/live/1515.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=1515
 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240326_1720524862135127431598069.png" group-title="News", Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/391.png" group-title="News", Malai Murasu
-http://mohitweb.zapto.org:7878/live/826.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=826
 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2024254898682553893825274.png" group-title="News", M Nadu
 https://player.mslivestream.net//mslive//48be4c2542b56ac026c0e25dfe5b2f25.sdp//playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240606_1005063335019012635312549.png" group-title="News", Sathiyam TV
-http://mohitweb.zapto.org:7878/live/671.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=671
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/44.png" group-title="News", Seithigal TV
-http://mohitweb.zapto.org:7878/live/1210.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=1210
 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0058221296057793002455467.png" group-title="News", News7 Tamil
-http://mohitweb.zapto.org:7878/live/673.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=673
 
 #EXTINF: -1 tvg-logo="https://tatalogo.pages.dev/198.png" group-title="News", Jaya Plus
-http://mohitweb.zapto.org:7878/live/418.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=418
 
 #EXTINF: -1 tvg-logo="https://tatalogo.pages.dev/525.png" group-title="News", Raj News 24x7
 http://mohitweb.zapto.org:7878/live767.m3u8
 
 #EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Janam_Tamil.png" group-title="News", Tamil Janam
-http://mohitweb.zapto.org:7878/live/3045.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=3045
 
 #EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="News", Kalaignar News
-http://mohitweb.zapto.org:7878/live/1210.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=1210
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Lotus_News.png" group-title="News", Lotus News
-http://mohitweb.zapto.org:7878/live/913.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=913
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Win_TV.png" group-title="News", Win TV
-http://mohitweb.zapto.org:7878/live/970.m3u8
+https://mycdn.tamilultratv.com/live.m3u8?id=970
 
    -YOUTUBE NEWS-
 
