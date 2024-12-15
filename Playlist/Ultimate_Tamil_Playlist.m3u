@@ -15,6 +15,9 @@
 https://live.tamiltool.online/livestream/index.m3u8
 
 #EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live #2
+http://port.denver1769.in/tp2.php?tv=58131
+
+#EXTINF:-1  group-title="Bigg Boss 24x7 Live" tvg-logo="https://i.imgur.com/yehwTNW.jpeg", BB Tamil 24x7 Live #3
 https://tamilultratv.co.in/master.m3u8?c=BBTAMIL&server=1|referer=https://tamilultratv.co.in
 
    BIGG BOSS TELUGU
@@ -57,7 +60,7 @@ https://tp.yg048.workers.dev/ch/496.m3u8
 http://port.denver1769.in/Airpel2.php?tv=778
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/496.png" group-title="Entertainment", Star Vijay HD #3
-http://89.36.94.19:3034/live/premium-aostv-free/download-fdrm-aostv.asia/3066.ts
+http://port.denver1769.in/tp2.php?tv=924
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
@@ -75,7 +78,7 @@ http://port.denver1769.in/Airpel2.php?tv=802
 https://tp.yg048.workers.dev/ch/608.m3u8
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Entertainment", Zee Tamil HD #4
-http://89.36.94.19:3034/live/premium-aostv-free/download-fdrm-aostv.asia/2877.ts
+http://port.denver1769.in/tp2.php?tv=603
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
@@ -277,6 +280,15 @@ http://d37lxn4ksn51zz.cloudfront.net/thang.mpd
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/32.png" group-title="Movies", Sony Pix HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/45599.jpg" group-title="Movies",24/7 Tamil Movies #1
+https://games.denver1769.in/Play/tp3.php?tv=45599
+
+#EXTINF:-1 tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/45619.jpg" group-title="Movies",24/7 Tamil Movies #2
+https://games.denver1769.in/Play/tp3.php?tv=45619
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPHLT_Thumbnail-v4/TPHLT_Thumbnail.png" group-title="Movies",Hollywood Local Tamil
+http://port.denver1769.in/tp2.php?tv=9184
 
    -EXTRA MOVIES-
 
@@ -700,6 +712,9 @@ https://mycdn.tamilultratv.com/live.m3u8?id=542
 #EXTINF:-1  tvg-logo="https://tatalogo.pages.dev/587.png" group-title="Kids", Super Hungama
 #EXTVLCOPT:http-user-agent=yuvi bhai
 https://tp.yg048.workers.dev/ch/587.m3u8
+
+#EXTINF:-1  tvg-logo="https://tatalogo.pages.dev/587.png" group-title="Kids", 24/7 Shinchan Live
+https://games.denver1769.in/Play/tp3.php?tv=58625
 
 #EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240707_1001225329215954789331277.png" group-title="Kids" , Animax
 https://jmp2.uk/sam-INBD13000043W.m3u8
